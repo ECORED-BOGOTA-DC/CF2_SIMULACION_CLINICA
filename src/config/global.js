@@ -1,19 +1,12 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
+    componenteFormativo:
+      'Desarrollo y aplicación de simulación clínica en procesos de formación',
+    descripcionCurso:
+      'La planeación y ejecución de un ambiente simulado implica conocer los aspectos que constituyen esta práctica, lo cual abarca un complejo entramado de elementos académicos (población, objetivos, entre otros), administrativos (espacio físico, insumos y equipos) y de la simulación clínica (casos, fases) dispuestas para el óptimo desarrollo de estos ambientes, con el fin de cualificar a los profesionales que participan.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
+    imagenesDecorativasBanner: [],
   },
   menuPrincipal: {
     menu: [
@@ -31,13 +24,29 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Modalidades para el desarrollo de zonas de simulación',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo:
+              'Importancia de la simulación clínica en el proceso de formación',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Habilidades comunicativas',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Planificación y contexto de simulación clínica',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Tipos de simulación según su fidelidad',
+            hash: 't_1_4',
           },
         ],
       },
@@ -45,13 +54,19 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Fases de simulación clínica',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Análisis de necesidades en los procesos de formación',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Diseño y aplicación de escenarios de simulación clínica',
         desarrolloContenidos: true,
       },
     ],
