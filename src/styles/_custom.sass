@@ -17,10 +17,43 @@
 
   100%
     transform: translateY(0px)
-
+.barra-avance--open
+  .barra-avance__boton--regresar
+    i
+      color: #111e61
+    &:hover
+      i, span
+        color: white !important
 .contenedor-principal
   .seccion-principal--barra-avance-open
     .banner-interno
       height: 160px
       .banner-interno__fondo
         background-image: url('../assets/curso/portada/fondo-banner-page.svg') !important
+
+.img-text-edit
+  align-content: center
+  .container-bg
+    background-color: #63F2E4
+    padding: 1rem 4rem
+    margin-top: auto
+    margin-bottom: auto
+    p
+      max-width: 505px
+      margin-bottom: 0
+  img
+    margin-left: -22%
+  @media (max-width: 1400px)
+    .container-bg
+      max-width: 975px
+      padding: 1rem 4rem
+    img
+      margin-left: -17%
+  @media (max-width: 1200px)
+    img
+      margin-left: auto
+      margin-right: auto
+      margin-bottom: 1.5rem
+    .container-bg
+      p
+        max-width: 100%

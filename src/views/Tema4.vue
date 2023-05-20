@@ -4,9 +4,9 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span.text-white 3
+        span.text-white 4
       h1 Diseño y aplicación de escenarios de simulación clínica
-
+  
 </template>
 
 <script>
