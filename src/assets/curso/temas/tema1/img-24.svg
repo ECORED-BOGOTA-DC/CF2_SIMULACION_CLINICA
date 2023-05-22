@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="648.307" height="643.121" viewBox="0 0 648.307 643.121">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.016" x2="0.5" y2="0.979" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fba6ee"/>
+      <stop offset="1" stop-color="#93007c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5f4f2"/>
+      <stop offset="1" stop-color="#d5d5d5"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_238290" data-name="Grupo 238290" transform="translate(-143.186 -53.797)">
+    <g id="Grupo_238288" data-name="Grupo 238288" transform="translate(231.594 141.105)">
+      <path id="Trazado_200965" data-name="Trazado 200965" d="M451.969,602.884c-132.842,0-240.914-108.072-240.914-240.914S319.128,121.054,451.969,121.054,692.885,229.129,692.885,361.97,584.81,602.884,451.969,602.884Zm0-466.2c-124.221,0-225.283,101.062-225.283,225.284S327.748,587.253,451.969,587.253,677.254,486.191,677.254,361.97,576.192,136.686,451.969,136.686Z" transform="translate(-211.055 -121.054)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Trazado_200966" data-name="Trazado 200966" d="M503.884,113.423,474.35,62.268A14.942,14.942,0,0,0,461.41,54.8H371.268a14.942,14.942,0,0,0-12.94,7.471l-29.534,51.155" transform="translate(56.17)" fill="none" stroke="#d3f988" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Trazado_200967" data-name="Trazado 200967" d="M461.908,230.394H374.8a9.123,9.123,0,0,1-7.9-4.559L323.353,150.4a9.115,9.115,0,0,1,0-9.118L366.9,65.845a9.12,9.12,0,0,1,7.9-4.559h87.107a9.12,9.12,0,0,1,7.9,4.559l43.552,75.435a9.115,9.115,0,0,1,0,9.118L469.8,225.834A9.121,9.121,0,0,1,461.908,230.394Z" transform="translate(54.154 1.964)" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_200968" data-name="Trazado 200968" d="M375.894,218.627a5.692,5.692,0,0,1-4.921-2.841l-40.025-69.321a5.709,5.709,0,0,1,0-5.687L370.97,71.46a5.7,5.7,0,0,1,4.924-2.844h80.044a5.7,5.7,0,0,1,4.923,2.842l40.023,69.321a5.7,5.7,0,0,1,0,5.686l-40.021,69.319a5.7,5.7,0,0,1-4.924,2.842Z" transform="translate(56.593 4.182)" fill="#d3f988"/>
+    <path id="Trazado_200969" data-name="Trazado 200969" d="M477.13,432.382H369.238a9.117,9.117,0,0,1-7.9-4.559L307.4,334.385a9.115,9.115,0,0,1,0-9.118l53.946-93.437a9.117,9.117,0,0,1,7.9-4.559H477.13a9.117,9.117,0,0,1,7.9,4.559l53.946,93.437a9.115,9.115,0,0,1,0,9.118l-53.946,93.437A9.117,9.117,0,0,1,477.13,432.382Z" transform="translate(49.325 52.195)" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_200970" data-name="Trazado 200970" d="M371.614,418.109a6.909,6.909,0,0,1-5.97-3.447L317.1,330.583a6.922,6.922,0,0,1,0-6.9l48.544-84.077a6.914,6.914,0,0,1,5.971-3.448H468.7a6.91,6.91,0,0,1,5.97,3.448l48.545,84.078a6.915,6.915,0,0,1,0,6.9l-48.54,84.077a6.915,6.915,0,0,1-5.973,3.448Z" transform="translate(52.352 54.886)" fill="#2c04bf"/>
+    <path id="Trazado_200971" data-name="Trazado 200971" d="M328.793,154.306l29.534,51.155a14.945,14.945,0,0,0,12.94,7.471H461.41a14.941,14.941,0,0,0,12.939-7.471l29.536-51.155" transform="translate(56.17 30.114)" fill="none" stroke="#d3f988" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <text id="Interacciones_positivas_entre_aprendices_instrucciones_equipo_de_salud_y_pacientes." data-name="Interacciones
+positivas entre
+aprendices,
+instrucciones,
+equipo de salud
+y pacientes." transform="translate(466.799 103.543)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-42" y="0">Interacciones</tspan><tspan x="-45.637" y="17">positivas entre</tspan><tspan x="-35.677" y="34">aprendices,</tspan><tspan x="-43.258" y="51">instrucciones,</tspan><tspan x="-49.208" y="68">equipo de salud</tspan><tspan x="-37.16" y="85">y pacientes.</tspan></text>
+    <text id="Comunicación_en_Simulación_Clínica" data-name="Comunicación
+en Simulación
+Clínica" transform="translate(470.983 363.564)" fill="#fff" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-61.179" y="0">Comunicación</tspan><tspan x="-60.498" y="22">en Simulación</tspan><tspan x="-29.224" y="44">Clínica</tspan></text>
+    <g id="Grupo_238289" data-name="Grupo 238289" transform="translate(599.045 287.897)">
+      <path id="Trazado_200972" data-name="Trazado 200972" d="M674.892,292.369l-29.534-51.155a14.942,14.942,0,0,0-12.939-7.471H542.275a14.94,14.94,0,0,0-12.939,7.471L499.8,292.369" transform="translate(-491.123 -233.743)" fill="none" stroke="#aceaff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Trazado_200973" data-name="Trazado 200973" d="M632.916,409.339H545.811a9.117,9.117,0,0,1-7.9-4.559l-43.553-75.435a9.121,9.121,0,0,1,0-9.118l43.553-75.435a9.117,9.117,0,0,1,7.9-4.559h87.105a9.117,9.117,0,0,1,7.9,4.559l43.553,75.435a9.121,9.121,0,0,1,0,9.118L640.813,404.78A9.117,9.117,0,0,1,632.916,409.339Z" transform="translate(-493.139 -231.779)" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_200974" data-name="Trazado 200974" d="M546.9,397.573a5.7,5.7,0,0,1-4.921-2.841L501.956,325.41a5.709,5.709,0,0,1,0-5.686L541.979,250.4a5.7,5.7,0,0,1,4.923-2.842h80.045a5.7,5.7,0,0,1,4.921,2.842l40.024,69.319a5.706,5.706,0,0,1,0,5.687L631.87,394.729a5.7,5.7,0,0,1-4.923,2.844Z" transform="translate(-490.701 -229.561)" fill="#aceaff"/>
+      <path id="Trazado_200975" data-name="Trazado 200975" d="M499.8,333.251l29.534,51.156a14.94,14.94,0,0,0,12.939,7.471h90.142a14.942,14.942,0,0,0,12.94-7.471l29.534-51.156" transform="translate(-491.123 -203.629)" fill="none" stroke="#aceaff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path id="Trazado_200976" data-name="Trazado 200976" d="M324.938,292.369,295.4,241.214a14.942,14.942,0,0,0-12.94-7.471H192.321a14.938,14.938,0,0,0-12.939,7.471l-29.534,51.155" transform="translate(2.016 54.154)" fill="none" stroke="#b5a7e9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Trazado_200977" data-name="Trazado 200977" d="M282.962,409.339H195.857a9.117,9.117,0,0,1-7.9-4.559l-43.553-75.435a9.121,9.121,0,0,1,0-9.118l43.553-75.435a9.117,9.117,0,0,1,7.9-4.559h87.105a9.117,9.117,0,0,1,7.9,4.559l43.552,75.435a9.115,9.115,0,0,1,0,9.118L290.859,404.78A9.117,9.117,0,0,1,282.962,409.339Z" transform="translate(0 56.118)" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_200978" data-name="Trazado 200978" d="M196.948,397.573a5.7,5.7,0,0,1-4.921-2.841L152,325.41a5.706,5.706,0,0,1,0-5.686L192.025,250.4a5.7,5.7,0,0,1,4.923-2.842h80.044a5.7,5.7,0,0,1,4.923,2.842l40.023,69.319a5.706,5.706,0,0,1,0,5.687l-40.021,69.318a5.7,5.7,0,0,1-4.924,2.844Z" transform="translate(2.439 58.336)" fill="#b5a7e9"/>
+    <path id="Trazado_200979" data-name="Trazado 200979" d="M149.848,333.251l29.534,51.156a14.94,14.94,0,0,0,12.939,7.471h90.142a14.942,14.942,0,0,0,12.94-7.471l29.534-51.156" transform="translate(2.016 84.268)" fill="none" stroke="#b5a7e9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <text id="Ambientes_de_aprendizaje_sanos_y_de_comunicación_asertiva_y_efectiva" data-name="Ambientes de
+aprendizaje
+sanos y de
+comunicación
+asertiva y
+efectiva" transform="translate(233.909 336.643)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-42.892" y="0">Ambientes de</tspan><tspan x="-35.978" y="17">aprendizaje</tspan><tspan x="-33.315" y="34">sanos y de</tspan><tspan x="-43.9" y="51">comunicación</tspan><tspan x="-29.842" y="68">asertiva y</tspan><tspan x="-24.644" y="85">efectiva</tspan></text>
+    <path id="Trazado_200980" data-name="Trazado 200980" d="M503.884,461.083,474.35,409.928a14.942,14.942,0,0,0-12.94-7.471H371.268a14.942,14.942,0,0,0-12.94,7.471l-29.534,51.156" transform="translate(56.17 105.212)" fill="none" stroke="#bebeff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Trazado_200981" data-name="Trazado 200981" d="M461.908,578.055H374.8a9.12,9.12,0,0,1-7.9-4.559L323.353,498.06a9.115,9.115,0,0,1,0-9.118L366.9,413.505a9.12,9.12,0,0,1,7.9-4.559h87.107a9.12,9.12,0,0,1,7.9,4.559l43.552,75.436a9.115,9.115,0,0,1,0,9.118L469.8,573.5A9.12,9.12,0,0,1,461.908,578.055Z" transform="translate(54.154 107.175)" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_200982" data-name="Trazado 200982" d="M375.894,566.288a5.693,5.693,0,0,1-4.921-2.842l-40.025-69.321a5.709,5.709,0,0,1,0-5.687l40.022-69.318a5.7,5.7,0,0,1,4.924-2.842h80.044a5.7,5.7,0,0,1,4.923,2.841l40.023,69.321a5.706,5.706,0,0,1,0,5.687l-40.021,69.318a5.7,5.7,0,0,1-4.924,2.844Z" transform="translate(56.593 109.394)" fill="#bebeff"/>
+    <path id="Trazado_200983" data-name="Trazado 200983" d="M328.793,501.966l29.534,51.156a14.942,14.942,0,0,0,12.94,7.471H461.41a14.938,14.938,0,0,0,12.939-7.471l29.536-51.156" transform="translate(56.17 135.326)" fill="none" stroke="#bebeff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <text id="Coordinación_y_fluidez_en_las_relaciones_humanas" data-name="Coordinación y
+fluidez en las
+relaciones
+humanas" transform="translate(689.163 356.519)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-46.488" y="0">Coordinación y</tspan><tspan x="-40.811" y="17">fluidez en las</tspan><tspan x="-32.119" y="34">relaciones</tspan><tspan x="-28.937" y="51">humanas</tspan></text>
+    <text id="Incentiva_las_actividades_propuestas_y_aplicación_del_aprendizaje" data-name="Incentiva las
+actividades
+propuestas y
+aplicación del
+aprendizaje" transform="translate(467.311 565.795)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-38.982" y="0">Incentiva las</tspan><tspan x="-35.567" y="17">actividades</tspan><tspan x="-40.072" y="34">propuestas y</tspan><tspan x="-42.909" y="51">aplicación del</tspan><tspan x="-35.978" y="68">aprendizaje</tspan></text>
+  </g>
+</svg>
