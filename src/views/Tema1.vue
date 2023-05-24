@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5(style="overflow: hidden")
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.text-white 1
@@ -280,7 +280,7 @@
     p.mb-5 Es importante que los instructores que manejan las áreas simuladas para entrenamiento en salud tengan presente los siguientes momentos en el proceso de evaluación: 
 
     .tarjeta.tarjeta--gris.p-4.mb-5
-      LineaTiempoC.color-acento-botones(text-small)
+      LineaTiempoC.linea-tiempo-c-edit.color-acento-botones(text-small)
         .row.col-lg-10.mx-auto(titulo="Información")
           .col-md-6.mb-4.mb-md-auto
             figure
@@ -317,7 +317,7 @@
     ImagenInfografica.color-primario.mb-5.col-xl-10.mx-auto
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema1/img-20.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/img-20.svg')
           figcaption Leyenda de la imagen
 
       .tarjeta.color-acento-botones--borde.p-3(x="63%" y="24.5%" numero="" style="background-color: white; border-color: #8628A5;")
@@ -590,7 +590,95 @@
       .container-bg.col-12.col-xl-9.order-2.order-xl-1
         p(data-aos="fade-right") Después de planificada la actividad se continúa con el diseño del escenario para la simulación, el cual consiste en establecer: los insumos físicos, recursos, equipos, elementos perceptivos (visuales, olfativos, sonoros) y espacios físicos que conformarán el ambiente simulado. Estos elementos del diseño del escenario se escogen de acuerdo a la zona de diseño y al criterio de fidelización que exija la actividad diseñada. Además, no es algo que realiza el docente o instructor con exclusividad, sino que contribuyen expertos, colaboradores y personal de apoyo.
       img.col-xl-6.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-29.png" style="max-width: 592px")
-    p.col-lg-10.col-xl-6.last-text Todos los eventos de simulación clínica están distribuidos en tres partes briefing, simulación, debriefing como a continuación de conceptúa brevemente:
+    p.mb-5.col-lg-10.col-xl-6.last-text Todos los eventos de simulación clínica están distribuidos en tres partes briefing, simulación, debriefing como a continuación de conceptúa brevemente:
+    .tarjeta.p-4(style="background-color: #F3F8FF")
+      LineaTiempoC.color-secundario(text-small)
+        .row.col-lg-10.mx-auto(titulo="Primera etapa")
+          img.mx-auto(src='@/assets/curso/temas/tema2/img-1.svg' style="max-width: 250px")
+          .col-md.mb-4.mb-md-0
+            p Es denominada presimulación o briefing, etapa en la que se busca crear el ambiente de realidad, distribuir los roles, socializar los objetivos de formación y brindar toda la información necesaria para la ejecución efectiva del caso clínico
+        .row.col-lg-10.mx-auto(titulo="Segunda etapa")
+          img.mx-auto(src='@/assets/curso/temas/tema2/img-2.svg' style="max-width: 250px")
+          .col-md.mb-4.mb-md-0
+            p En esta etapa intermedia consta de la simulación, en la cual se desarrolla todo el escenario diseñado.  En esta etapa ocurre toda la experiencia, por ello lo importante de definir en la etapa anterior todo lo necesario para garantizar la simulación.
+        .row.col-lg-10.mx-auto(titulo="Tercera etapa")
+          img.mx-auto(src='@/assets/curso/temas/tema2/img-3.svg' style="max-width: 250px")
+          .col-md.mb-4.mb-md-0
+            p Finalmente la etapa del debriefing que consta de la retroalimentación de la práctica realizada. Este proceso de planificación, diseño y ejecución posibilitará que el profesional pueda enfrentarse con conocimiento, seguridad y confianza a contextos clínicos reales.
+    Separador 
+
+    .titulo-segundo.color-secundario
+      h2#t_1_4 1.4	Tipos de simulación según fidelidad
+
+    p.mb-5 La fidelidad en el contexto de la simulación clínica refiere al grado de semejanza entre los ambientes, los comportamientos y las interacciones del espacio simulado con el escenario del contexto real. En ese sentido, la fidelidad no depende únicamente de la tecnología sino de la manera como se presentan y desarrollan los casos y eventos clínicos, de la credibilidad del aprendiz frente a la simulación y de los resultados de aprendizaje. 
+      br
+      br
+      |La fidelidad puede desarrollarse en tres dimensiones (ver figura):
+    
+    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+      .col-lg-10.mx-auto
+        .titulo-sexto.color-acento-botones
+          h5.text-small Figura 9
+          p.mb-0.text-small Objetivos zonas de simulación
+        .col-lg-6.mx-auto
+          img.mb-2.mx-auto(src="@/assets/curso/temas/tema2/img-4.png" style="max-width: 610px" data-aos="fade-left")
+          span.text-small Nota.SENA (2022)
+    p.mb-5 La relación entre las tres dimensiones permitirá que el escenario simulado sea más fiel a la realidad que se quiere representar. Además, la fidelidad del equipo y la fidelidad ambiental pueden aportar a la construcción de la fidelidad psicológica, pero en ningún momento pueden reemplazarla. Por ello, es elemental que exista una planificación y diseño adecuados a la población y al contexto en el que surge la propuesta de simulación.  
+      br
+      br
+      |La simulación puede ser clasificada según el tipo de fidelidad en tres niveles: simulación de baja fidelidad, simulación de mediana fidelidad y simulación de alta fidelidad, como se puede apreciar a continuación:
+
+    ImagenInfografica.color-primario.mb-5.col-xl-10.mx-auto.position-relative
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/temas/tema2/img-5.svg')
+
+      .tarjeta.color-acento-botones--borde.p-3(x="10%" y="100%" numero="" style="background-color: white; border-color: #8628A5;")
+        .h5.mb-2(style="color: #2C04BF") Objetivos
+        p Desarrollar competencias técnicas o procedimentales con la intención de adquirir o cualificar destrezas, habilidades y conocimientos psicomotores básicos, que requieren de constante práctica y entrenamiento.
+        .h5.mb-2(style="color: #2C04BF") Condiciones del espacio:
+        p Los escenarios de simulación son sencillos.
+          br
+          |Los ambientes clínicos diseñados son de baja complejidad.
+        .h5.mb-2(style="color: #2C04BF") Tipos de simuladores:
+        p Se emplean equipos como los Part task trainers, en los cuales se pueden encontrar modelos como dorsos para RSP o brazos para punción venosa.  
+          br
+          |También el mantenimiento y consumibles que se emplean son de baja inversión.
+
+      .tarjeta.color-acento-botones--borde.p-3(x="50%" y="100%" numero="" style="background-color: white; border-color: #8628A5;")
+        .h5.mb-2(style="color: #2C04BF") Objetivos
+        p Desarrollar competencias técnicas y profesionales, relacionadas no solo con habilidades procedimentales sino también con habilidades actitudinales, comunicativas y de liderazgo.
+        .h5.mb-2(style="color: #2C04BF") Condiciones del espacio:
+        p Los escenarios de simulación son construidos con intención de replicar el contexto real.
+          br
+          br
+          |El ambiente clínico se diseña con intención de asemejarse al contexto real. Aunque, depende del objetivo de la simulación, el tipo de simulador empleado y los resultados de formación esperados.
+        .h5.mb-2(style="color: #2C04BF") Tipos de simuladores:
+        p Se emplean equipos como maniquíes que imitan funciones básicas de un paciente como la respiración o los ritmos cardiacos.
+          br
+          |También se suele recurrir a pacientes simulados o estandarizados que consiste en un sujeto entrenado para realizar el rol de paciente. Si se emplea un Part task trainers como reemplazo de alguna de las partes del paciente estandarizado se referirá a un simulador híbrido.
+          br
+          |El uso de simuladores hápticos, los cuales se componen de un software de realidad virtual, que permite al participante sentir algunas sensaciones por medio del tacto.
+      
+      .tarjeta.color-acento-botones--borde.p-3(x="90%" y="100%" numero="" style="background-color: white; border-color: #8628A5;")
+        .h5.mb-2(style="color: #2C04BF") Objetivos
+        p Fortalecer competencias técnicas y no técnicas: competencias mixtas. En las cuales se evidencie la aptitud y habilidad, así como la actitud del aprendiz. 
+          br
+          br
+          |Pretende evaluar y retroalimentar a los participantes en escenarios de simulación realista.
+        .h5.mb-2(style="color: #2C04BF") Condiciones del espacio:
+        p Los escenarios de simulación presentan recursos u otros objetos que se ciñen a un espacio clínico realista.
+          br
+          |Los ambientes clínicos diseñados son complejos. Se integran elementos perceptivos (auditivos, visuales, olfativos), además de protocolos, situaciones e interacciones que se asemejan a un contexto clínico real.
+        .h5.mb-2(style="color: #2C04BF") Tipos de simuladores:
+        p Los simuladores de este nivel suelen ser de alta tecnología, y permiten aplicar distintos procedimientos. Desde el uso de maniquíes de tamaño real, que además emplean la apariencia de un paciente real y son capaces de imitar distintas funciones del cuerpo humano, por ejemplo, el modelo Victoria S2200 puede realizar partos reales con distintos riesgos.
+          br
+          br
+          |También se puede contar con simuladores virtuales de programas computacionales de alta complejidad que posibilitan la inmersión de los participantes y ofrecen feedback de la situación presentada. Es común encontrar en este tipo de simuladores, programas que recrean los órganos internos para procedimientos quirúrgicos.
+
+
+
+    p La elección del nivel de fidelidad en cada tarea dependerá del objetivo de aprendizaje, el tipo de actividad a simular, la complejidad del evento clínico, así como los insumos, materiales o los recursos con los que se cuente. De esta manera no se trata de comparar y de definir que un nivel sea mejor que otro, se trata de distintas maneras de experimentar un espacio de simulación.
 </template>
 
 <script>
