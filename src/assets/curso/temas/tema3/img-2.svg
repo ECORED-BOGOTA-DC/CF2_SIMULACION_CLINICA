@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="610" height="529.096" viewBox="0 0 610 529.096">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.039" y1="1.032" x2="0.668" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c400a6"/>
+      <stop offset="1" stop-color="#a6238f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.05" y1="1.019" x2="1.881" y2="-1.092" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f400ce"/>
+      <stop offset="1" stop-color="#a6238f"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_239557" data-name="Grupo 239557" transform="translate(-104.6 -53.248)">
+    <g id="Layer_1" data-name="Layer 1" transform="translate(104.6 53.248)">
+      <path id="Trazado_231309" data-name="Trazado 231309" d="M409.6,396.778V570.14l-151.795.408L104.6,306.816l.466-.816H304.937l-.163.28,52.658,90.638Z" transform="translate(-104.6 -41.452)" fill="#009fcf"/>
+      <path id="Trazado_231310" data-name="Trazado 231310" d="M409.579,53.638V227l-52.658.14-52.005,90.639H105.045L256.374,54.046Z" transform="translate(-104.579 -53.23)" fill="#3636d1"/>
+      <path id="Trazado_231311" data-name="Trazado 231311" d="M701,316.98l-.466.816H500.663l.163-.28-52.658-90.638-52.168.14V53.656l151.795-.408Z" transform="translate(-91 -53.248)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_231312" data-name="Trazado 231312" d="M700.534,306,549.205,569.732,396,570.14V396.778l52.658-.14,52-90.638Z" transform="translate(-91 -41.452)" fill="#24009d"/>
+      <g id="Grupo_239555" data-name="Grupo 239555" transform="translate(128.447 111.418)">
+        <path id="Trazado_231313" data-name="Trazado 231313" d="M572.279,306l-87.59,152.658L396,458.894V306Z" transform="translate(-219.447 -152.871)" fill="#3000c4" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <path id="Trazado_231314" data-name="Trazado 231314" d="M572.553,312.357l-.275.471H396V159.934l87.864-.236Z" transform="translate(-219.447 -159.699)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_231315" data-name="Trazado 231315" d="M403.86,159.924V312.818H227.582l87.59-152.658Z" transform="translate(-227.307 -159.688)" fill="#4545ff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <path id="Trazado_231316" data-name="Trazado 231316" d="M403.873,306V458.894l-87.864.236L227.319,306.471l.275-.471Z" transform="translate(-227.319 -152.871)" fill="#00c5ff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+    </g>
+    <g id="Objects" transform="translate(167.966 95.201)">
+      <g id="Grupo_239556" data-name="Grupo 239556" transform="translate(202.261 190.087)">
+        <path id="Trazado_231317" data-name="Trazado 231317" d="M426.931,314.638a2.248,2.248,0,0,0-2.884,1.327,28.02,28.02,0,0,1-54.226-7.64l2.947,2.946a2.245,2.245,0,1,0,3.174-3.175l-6.864-6.863a2.244,2.244,0,0,0-3.175,0L359.04,308.1a2.245,2.245,0,0,0,3.175,3.175l3.094-3.093a32.511,32.511,0,0,0,62.949,9.343A2.243,2.243,0,0,0,426.931,314.638Z" transform="translate(-358.383 -273.745)" fill="#ff0" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Trazado_231318" data-name="Trazado 231318" d="M436.059,299.792a2.246,2.246,0,0,0-3.175,0l-3.328,3.328A32.51,32.51,0,0,0,367.39,294.8a2.245,2.245,0,1,0,4.135,1.748,28.021,28.021,0,0,1,53.363,5.807l-2.558-2.558a2.245,2.245,0,1,0-3.175,3.175l6.864,6.864a2.243,2.243,0,0,0,3.175,0l6.864-6.864A2.246,2.246,0,0,0,436.059,299.792Z" transform="translate(-357.97 -274.941)" fill="#ff0" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+      <text id="Escasos_escenarios_reales_Fortalecer_competencias" data-name="Escasos escenarios reales
+Fortalecer competencias" transform="translate(62.223 93.698) rotate(-60)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-95.277" y="0">Escasos escenarios reales</tspan><tspan x="-89.434" y="19">Fortalecer competencias</tspan></text>
+      <text id="Necesidad_de_la_institución" data-name="Necesidad
+de la 
+institución" transform="translate(171.716 145.237)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-38.008" y="0">Necesidad</tspan><tspan x="-19.227" y="19">de la </tspan><tspan x="-38.016" y="38">institución</tspan></text>
+      <text id="Necesidad_de_los_aprendices" data-name="Necesidad
+de los
+aprendices" transform="translate(307.911 145.237)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-38.008" y="0">Necesidad</tspan><tspan x="-21.582" y="19">de los</tspan><tspan x="-39.754" y="38">aprendices</tspan></text>
+      <text id="Programas" transform="translate(169.669 300.673)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-36.98" y="0">Programas</tspan></text>
+      <text id="Manejo_de_recursos_materiales_y_recurso_humano" data-name="Manejo de
+recursos
+materiales
+y recurso
+humano" transform="translate(308.004 261.481)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-37.527" y="0">Manejo de</tspan><tspan x="-31.559" y="19">recursos</tspan><tspan x="-38.129" y="38">materiales</tspan><tspan x="-33.453" y="57">y recurso</tspan><tspan x="-29.172" y="76">humano</tspan></text>
+      <text id="Rentabilidad" transform="translate(402.55 352.726) rotate(-60)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-42.257" y="0">Rentabilidad</tspan></text>
+      <text id="Escasos_escenarios_reales_Fortalecer_competencias-2" data-name="Escasos escenarios reales
+Fortalecer competencias" transform="matrix(0.522, 0.853, -0.853, 0.522, 427.007, 101.624)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-95.277" y="0">Escasos escenarios reales</tspan><tspan x="-89.434" y="19">Fortalecer competencias</tspan></text>
+      <text id="Acreditación" transform="matrix(0.522, 0.853, -0.853, 0.522, 54.593, 340.241)" fill="#fff" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-42.858" y="0">Acreditación</tspan></text>
+    </g>
+  </g>
+</svg>

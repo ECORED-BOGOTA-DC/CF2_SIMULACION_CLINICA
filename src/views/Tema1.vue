@@ -124,7 +124,7 @@
       br
       |Muchos aprendices iniciando su etapa en actividades de simulación, se sienten tan motivados que quieren iniciar en zonas donde los casos se vuelven más complejos lo que podría generar que se pierda del objetivo frente a las competencias que se han propuesto para trabajar . 
 
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.col-lg-9.offset-1(style="background-color: #13C4FF")
+    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.col-lg-9.offset-lg-1(style="background-color: #13C4FF")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           h2.mb-0 Nota importante
@@ -347,7 +347,7 @@
                 span Ver
                 img.ms-4(src="@/assets/curso/temas/decorador-2.svg" style="max-width: 40px")
 
-    .bloque-texto-a.color-acento-botones.p-4.col-lg-9.offset-1(style="background-color: #A9F8F0")
+    .bloque-texto-a.color-acento-botones.p-4.col-lg-9.offset-lg-1(style="background-color: #A9F8F0")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           h2.mb-0 Nota importante
@@ -375,7 +375,7 @@
                 span Ver
                 img.ms-4(src="@/assets/curso/temas/decorador-2.svg" style="max-width: 40px")
 
-    p.mb-5 Hablar de habilidades de comunicación en simulación clínica, es importante para el desarrollo de los planes de estudio de los programas de salud y es fundamental en desarrollo de las competencias básicas que aportan al cumplimiento de los objetivos de toda organización o institución de educación en salud. Desarrollar habilidades de comunicación en ciencias de la salud, necesita que todo aprendiz pueda tener una práctica con simuladores que imitan al paciente y que, bajo observación y orientación del instructor de manera directa, pueda recibir un feedback de manera individual para ser integrado más adelante. 
+    p.mb-5 Hablar de habilidades de comunicación en simulación clínica, es importante para el desarrollo de los planes de estudio de los programas de salud y es fundamental en desarrollo de las competencias básicas que aportan al cumplimiento de los objetivos de toda organización o institución de educación en salud. Desarrollar habilidades de comunicación en ciencias de la salud, necesita que todo aprendiz pueda tener una práctica con simuladores que imitan al paciente y que, bajo observación y orientación del instructor de manera directa, pueda recibir un <em>feedback</em> de manera individual para ser integrado más adelante. 
       br
       br
       |Los programas de formación en salud requieren que, para su adecuada enseñanza en los diferentes grupos de aprendices, se incentive la experiencia vivida de manera directa con el paciente simulado, lo cual cuando es orientado por el instructor de la materia, permite el desarrollo de habilidades las cuales se vuelven interactivas y resultan siendo aplicadas de forma pedagógica entre aprendiz e instructor fortaleciendo la enseñanza y el aprendizaje. 
@@ -474,7 +474,7 @@
     .d-flex.flex-wrap.mb-5
       img.col-lg-4.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-23.svg" style="max-width: 394px")
       .col-lg-8.ps-lg-4
-        LineaTiempoD.color-acento-botones
+        LineaTiempoD.color-acento-botones.linea-tiempo-d-edit
           p.text-small(numero="1" titulo="Escucha activa") Estoy atento a lo que comunica la otra persona.
           p.text-small(numero="2" titulo="Sé claro") La información debe ser efectiva, ser asertivo con la comunicación verbal y no verbal.
           p.text-small(numero="3" titulo="Socialización positiva") Transmitir mensajes claros, positivos, y que toma lo positivo de manera constructiva.
@@ -530,7 +530,7 @@
 
     p.mb-5 De forma consecuente se deben analizar las necesidades de la población. En este proceso se tienen en cuenta los factores enunciados anteriormente con el fin de lograr consolidar una propuesta, la cual, debe dar respuesta a la finalidad del curso o programa formativo, y suplir los requerimientos de la población en la cual se desarrolla.
 
-    .bloque-texto-a.color-acento-botones.p-4.col-lg-9.offset-1.mb-5(style="background-color: #A9F8F0")
+    .bloque-texto-a.color-acento-botones.p-4.col-lg-9.offset-lg-1.mb-5(style="background-color: #A9F8F0")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           h2.mb-0 Los objetivos de aprendizaje:
@@ -590,7 +590,7 @@
       .container-bg.col-12.col-xl-9.order-2.order-xl-1
         p(data-aos="fade-right") Después de planificada la actividad se continúa con el diseño del escenario para la simulación, el cual consiste en establecer: los insumos físicos, recursos, equipos, elementos perceptivos (visuales, olfativos, sonoros) y espacios físicos que conformarán el ambiente simulado. Estos elementos del diseño del escenario se escogen de acuerdo a la zona de diseño y al criterio de fidelización que exija la actividad diseñada. Además, no es algo que realiza el docente o instructor con exclusividad, sino que contribuyen expertos, colaboradores y personal de apoyo.
       img.col-xl-6.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-29.png" style="max-width: 592px")
-    p.mb-5.col-lg-10.col-xl-6.last-text Todos los eventos de simulación clínica están distribuidos en tres partes briefing, simulación, debriefing como a continuación de conceptúa brevemente:
+    p.mb-5.col-lg-10.col-xl-6.last-text Todos los eventos de simulación clínica están distribuidos en tres partes briefing, simulación, <em>debriefing</em> como a continuación de conceptúa brevemente:
     .tarjeta.p-4(style="background-color: #F3F8FF")
       LineaTiempoC.color-secundario(text-small)
         .row.col-lg-10.mx-auto(titulo="Primera etapa")
@@ -604,7 +604,7 @@
         .row.col-lg-10.mx-auto(titulo="Tercera etapa")
           img.mx-auto(src='@/assets/curso/temas/tema2/img-3.svg' style="max-width: 250px")
           .col-md.mb-4.mb-md-0
-            p Finalmente la etapa del debriefing que consta de la retroalimentación de la práctica realizada. Este proceso de planificación, diseño y ejecución posibilitará que el profesional pueda enfrentarse con conocimiento, seguridad y confianza a contextos clínicos reales.
+            p Finalmente la etapa del <em>debriefing</em> que consta de la retroalimentación de la práctica realizada. Este proceso de planificación, diseño y ejecución posibilitará que el profesional pueda enfrentarse con conocimiento, seguridad y confianza a contextos clínicos reales.
     Separador 
 
     .titulo-segundo.color-secundario
@@ -674,7 +674,7 @@
         p Los simuladores de este nivel suelen ser de alta tecnología, y permiten aplicar distintos procedimientos. Desde el uso de maniquíes de tamaño real, que además emplean la apariencia de un paciente real y son capaces de imitar distintas funciones del cuerpo humano, por ejemplo, el modelo Victoria S2200 puede realizar partos reales con distintos riesgos.
           br
           br
-          |También se puede contar con simuladores virtuales de programas computacionales de alta complejidad que posibilitan la inmersión de los participantes y ofrecen feedback de la situación presentada. Es común encontrar en este tipo de simuladores, programas que recrean los órganos internos para procedimientos quirúrgicos.
+          |También se puede contar con simuladores virtuales de programas computacionales de alta complejidad que posibilitan la inmersión de los participantes y ofrecen <em>feedback</em> de la situación presentada. Es común encontrar en este tipo de simuladores, programas que recrean los órganos internos para procedimientos quirúrgicos.
 
 
 
@@ -701,7 +701,7 @@ export default {
 </script>
 
 <style lang="sass">
-.linea-tiempo-d
+.linea-tiempo-d-edit
   .linea-tiempo-d__item--selected
     .linea-tiempo-d__item__col-number
       .linea-tiempo-d__item__number

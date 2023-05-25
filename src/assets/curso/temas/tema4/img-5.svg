@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="505" height="280" viewBox="0 0 505 280">
+  <g id="Grupo_239787" data-name="Grupo 239787" transform="translate(-810 -5663)">
+    <rect id="Rectángulo_314134" data-name="Rectángulo 314134" width="505" height="280" transform="translate(810 5663)" fill="#fff"/>
+    <g id="Grupo_239570" data-name="Grupo 239570" transform="translate(-46 2165)">
+      <g id="Grupo_239569" data-name="Grupo 239569" transform="translate(550.955 3311.094)">
+        <path id="Trazado_231334" data-name="Trazado 231334" d="M512.954,369.6a3.228,3.228,0,0,1-2.79-1.611l-22.689-39.3a3.236,3.236,0,0,1,0-3.224l22.688-39.3a3.231,3.231,0,0,1,2.791-1.611h89.837a3.228,3.228,0,0,1,2.79,1.611l22.689,39.3a3.233,3.233,0,0,1,0,3.224l-22.687,39.3a3.23,3.23,0,0,1-2.791,1.612Z" fill="#bebeff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+        <text id="Fase_de_Análisis" data-name="Fase de
+Análisis" transform="translate(512.509 315.099)" fill="#1a0272" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="29.725" y="9">Fase de</tspan><tspan x="29.301" y="19.8">Análisis</tspan></text>
+        <path id="Trazado_231335" data-name="Trazado 231335" d="M512.954,279.945a3.229,3.229,0,0,1-2.79-1.61l-22.689-39.3a3.236,3.236,0,0,1,0-3.224l22.688-39.295a3.232,3.232,0,0,1,2.791-1.612h89.837a3.23,3.23,0,0,1,2.79,1.611l22.689,39.3a3.233,3.233,0,0,1,0,3.224l-22.687,39.3a3.231,3.231,0,0,1-2.791,1.611Z" fill="#b6a6eb" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Trazado_231336" data-name="Trazado 231336" d="M512.954,459.253a3.228,3.228,0,0,1-2.79-1.611l-22.689-39.3a3.236,3.236,0,0,1,0-3.224l22.688-39.3a3.232,3.232,0,0,1,2.791-1.612h89.837a3.23,3.23,0,0,1,2.79,1.611l22.689,39.3a3.233,3.233,0,0,1,0,3.224l-22.687,39.3a3.23,3.23,0,0,1-2.791,1.612Z" fill="#a6ebff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+        <text id="Fase_de_Descripción" data-name="Fase de
+Descripción" transform="translate(516.765 225.631)" fill="#1a0272" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="25.469" y="9">Fase de</tspan><tspan x="17.117" y="19.8">Descripción</tspan></text>
+        <text id="Fase_de_Aplicación" data-name="Fase de
+Aplicación" transform="translate(510.305 404.166)" fill="#1a0272" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="31.93" y="9">Fase de</tspan><tspan x="26.256" y="19.8">Aplicación</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

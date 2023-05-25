@@ -47,7 +47,7 @@ export default {
   data: () => ({
     datosSlyder: [
       {
-        titulo: 'Primera etapa “Prebriefing”',
+        titulo: 'Primera etapa “<em>Prebriefing</em>”',
         texto:
           'También llamada diagnóstico clínico, donde se encuentra la información previa e información general de las actividades de aprendizaje con simulación identificando limitaciones o beneficios, la introducción a los ambientes de simulación donde se pretende contextualizar frente al conocimiento del simulador. Para este momento se prepara la llegada del aprendiz y se incentiva al desarrollo de las actividades propuestas para la formación. Con estas indicaciones se da seguridad en la creación del ambiente de aprendizaje siendo este positivo y adecuado.',
         imagen: require('@/assets/curso/temas/tema2/img-6.png'),
@@ -59,9 +59,9 @@ export default {
         imagen: require('@/assets/curso/temas/tema2/img-7.png'),
       },
       {
-        titulo: 'Tercera fase “debriefing”',
+        titulo: 'Tercera fase “<em>debriefing</em>”',
         texto:
-          'También llamada etapa de reflexión tiene como intención socializarse en un área distinta a la que haya tenido en simulación, mediante una discusión facilitada donde se exponen las experiencias vividas en el escenario y cómo se resolvió el evento clínico sobre acciones y cuál fue el desempeño transcurrido el tiempo desde su inicio y hasta el final. Los momentos del debriefing están conformados por: descripción, análisis y aplicación.',
+          'También llamada etapa de reflexión tiene como intención socializarse en un área distinta a la que haya tenido en simulación, mediante una discusión facilitada donde se exponen las experiencias vividas en el escenario y cómo se resolvió el evento clínico sobre acciones y cuál fue el desempeño transcurrido el tiempo desde su inicio y hasta el final. Los momentos del <em>debriefing</em> están conformados por: descripción, análisis y aplicación.',
         imagen: require('@/assets/curso/temas/tema2/img-8.png'),
       },
     ],
