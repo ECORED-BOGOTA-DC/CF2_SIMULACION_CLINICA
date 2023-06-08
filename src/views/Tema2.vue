@@ -2,17 +2,17 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span.text-white 2
       h1 Teorías de la simulación clínica
 
-    p.mb-5 De acuerdo con Peter Dieckmann, un ambiente de simulación se define como aquel donde al reunirse varias personas en un espacio o tiempo, pueden realizar actividades que se asemejan a la realidad en torno a un simulador (Elsevier, 2015). Esta práctica social, tiene como fin dar cumplimiento a los objetivos propuestos para el aprendizaje. Peter Dieckmann diseñó un modelo en el cual se puede entender de una manera más clara las actividades realizadas en simulación, dividido en tres (3) fases con ocho (8) momentos diferentes.
+    p.mb-5(data-aos="fade-right") De acuerdo con Peter Dieckmann, un ambiente de simulación se define como aquel donde al reunirse varias personas en un espacio o tiempo, pueden realizar actividades que se asemejan a la realidad en torno a un simulador (Elsevier, 2015). Esta práctica social, tiene como fin dar cumplimiento a los objetivos propuestos para el aprendizaje. Peter Dieckmann diseñó un modelo en el cual se puede entender de una manera más clara las actividades realizadas en simulación, dividido en tres (3) fases con ocho (8) momentos diferentes.
       br
       br
       |Como se mencionó anteriormente sobre el concepto de cada fase o etapa de la simulación clínica, a continuación se explicará con mayor profundización su importancia y aplicación:
     .p-4.mb-5(style="background-color: #E7F9FF")
-      SlyderB.col-xl-11(:datos="datosSlyder")
+      SlyderB.col-xl-11(:datos="datosSlyder" data-aos="fade-left")
     p.mb-5 Dentro de las fases de la simulación, existen algunos momentos que son importantes como se evidencia en el siguiente video (Departamento de Integración de Ciencias Médicas, 2020):
 
     .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
@@ -29,7 +29,7 @@
                 span Ver
                 img.ms-4(src="@/assets/curso/temas/decorador-2.svg" style="max-width: 40px")
     
-    p.mb-5 Los ocho (8) momentos mencionados dentro de las tres (3) fases se presentan en la siguiente figura, es de resaltar que los momentos cinco (5), seis (6) y siete (7) son recomendados para integrar el pensamiento crítico en la formación durante su proceso de ejecución. 
+    p.mb-5(data-aos="fade-right") Los ocho (8) momentos mencionados dentro de las tres (3) fases se presentan en la siguiente figura, es de resaltar que los momentos cinco (5), seis (6) y siete (7) son recomendados para integrar el pensamiento crítico en la formación durante su proceso de ejecución. 
 
     .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
       .col-lg-10.mx-auto

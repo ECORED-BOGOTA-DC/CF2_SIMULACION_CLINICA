@@ -2,17 +2,17 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span.text-white 4
       h1 Diseño y aplicación de escenarios de simulación clínica
 
     .tarjeta.mb-5.p-4.px-xl-0(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%); overflow: hidden")
       .col-xl-10.mx-auto.d-flex.flex-wrap
-        p.mb-0.order-2.order-lg-1.col-lg-7.pe-lg-5 Los escenarios sirven como herramientas que contextualizan las condiciones de la simulación, dependiendo del tipo de objetivo, estos pueden cambiar en complejidad y tiempo. Es importante que los escenarios de simulación estén orientados por objetivos definidos exhaustivamente para que las actividades, guiones y recursos empleados permitan construir una experiencia realista y de alta fidelidad. De hecho, entre más realista sea la práctica clínica, mayor será el éxito formativo, y de esta manera se garantizará la apropiación de conocimientos, habilidades o destrezas en el personal de salud.
-        img.mb-4.mb-lg-auto.order-1.order-lg-2.col-lg-5(src="@/assets/curso/temas/tema4/img-1.jpg")
+        p.mb-0.order-2.order-lg-1.col-lg-7.pe-lg-5(data-aos="fade-right") Los escenarios sirven como herramientas que contextualizan las condiciones de la simulación, dependiendo del tipo de objetivo, estos pueden cambiar en complejidad y tiempo. Es importante que los escenarios de simulación estén orientados por objetivos definidos exhaustivamente para que las actividades, guiones y recursos empleados permitan construir una experiencia realista y de alta fidelidad. De hecho, entre más realista sea la práctica clínica, mayor será el éxito formativo, y de esta manera se garantizará la apropiación de conocimientos, habilidades o destrezas en el personal de salud.
+        img.mb-4.mb-lg-auto.order-1.order-lg-2.col-lg-5(src="@/assets/curso/temas/tema4/img-1.jpg" data-aos="fade-left")
     
-    p.mb-5 Sin embargo, también son importantes los resultados de las interacciones entre los participantes, el ambiente simulado y los objetivos propuestos. Teniendo esto en cuenta, los espacios de simulación pueden ser adecuados o transformados de acuerdo a la evidencia final, es por esto que posterior a cualquier experiencia, la evaluación del diseño y retroalimentación de la práctica clínica son fundamentales para ajustar los procesos y lograr el cumplimiento de la formación.  
+    p.mb-5(data-aos="fade-right") Sin embargo, también son importantes los resultados de las interacciones entre los participantes, el ambiente simulado y los objetivos propuestos. Teniendo esto en cuenta, los espacios de simulación pueden ser adecuados o transformados de acuerdo a la evidencia final, es por esto que posterior a cualquier experiencia, la evaluación del diseño y retroalimentación de la práctica clínica son fundamentales para ajustar los procesos y lograr el cumplimiento de la formación.  
       br
       br
       |Antes de diseñar un espacio simulado es importante tener en cuenta (ver figura):
@@ -25,29 +25,29 @@
         .mx-auto
           img.mb-2.mx-auto(src="@/assets/curso/temas/tema4/img-2.svg" data-aos="fade-left")
           span.text-small Nota.SENA (2022)
-    p.mb-5 Posteriormente para planificar y desarrollar el espacio simulado se puede emplear una plantilla que colabore en el montaje del espacio simulado. En la literatura de la simulación clínica existen diversos formatos para ello, pero pueden variar dependiendo de la institución, de sus objetivos, su infraestructura, entre otros factores. 
+    p.mb-5(data-aos="fade-right") Posteriormente para planificar y desarrollar el espacio simulado se puede emplear una plantilla que colabore en el montaje del espacio simulado. En la literatura de la simulación clínica existen diversos formatos para ello, pero pueden variar dependiendo de la institución, de sus objetivos, su infraestructura, entre otros factores. 
       br
       |Sin embargo, entre todos estos pueden encontrarse elementos en común como: 
 
-    LineaTiempoD.color-acento-contenido.mb-5.linea-tiempo-d-edit-2.col-lg-7.ms-auto
-      p.text-small(numero="1" titulo="Título del escenario:") Brinda una idea sobre el escenario. 
-      p.text-small(numero="2" titulo="Objetivos:") Que plantean de manera general y especifica las competencias técnicas y no técnicas a aprender.  
-      p.text-small(numero="3" titulo="Índice") Enumera los apartados del escenario.  
-      p.text-small(numero="4" titulo="Lista de recursos") Detalla los insumos, materiales y talento humano que se requiere para la ejecución del espacio de simulación.  
-      p.text-small(numero="5" titulo="Puntos básicos") En este elemento se especifican y se explican las etapas de la simulación, la cual consta del <em>prebriefing</em>, los aspectos propios del desarrollo del escenario, y el <em>debriefing</em>. 
-      p.text-small(numero="6" titulo="Flujograma") Se detalla de manera sucinta el tiempo distribuido en el <em>debriefing</em>, simulación y <em>debriefing</em>. 
-      p.text-small(numero="7" titulo="Logística") Contempla el guion de la simulación, el cual contiene el caso clínico, las acciones esperadas de los aprendices, la interacción de otros actores participantes, así como los resultados posibles.  
-      p.text-small(numero="8" titulo="Estudios:") Es el conjunto de laboratorios, exámenes u otros documentos en su versión impresa, que posibilita un abordaje clínico adecuado.   
-      p.text-small(numero="9" titulo="Marco teórico") Compuesto por la síntesis de la revisión bibliográfica elaborada, con énfasis a la importancia para la población participante. 
-      p.text-small(numero="10" titulo="Revisión bibliográfica") Es recomendable emplear información no mayor a cinco años y citar en formato APA o Vancouver. 
+    LineaTiempoD.color-acento-contenido.mb-5.linea-tiempo-d-edit-2.col-lg-7.ms-auto(data-aos="fade-left")
+      p(numero="1" titulo="Título del escenario:") Brinda una idea sobre el escenario. 
+      p(numero="2" titulo="Objetivos:") Que plantean de manera general y especifica las competencias técnicas y no técnicas a aprender.  
+      p(numero="3" titulo="Índice") Enumera los apartados del escenario.  
+      p(numero="4" titulo="Lista de recursos") Detalla los insumos, materiales y talento humano que se requiere para la ejecución del espacio de simulación.  
+      p(numero="5" titulo="Puntos básicos") En este elemento se especifican y se explican las etapas de la simulación, la cual consta del <em>prebriefing</em>, los aspectos propios del desarrollo del escenario, y el <em>debriefing</em>. 
+      p(numero="6" titulo="Flujograma") Se detalla de manera sucinta el tiempo distribuido en el <em>debriefing</em>, simulación y <em>debriefing</em>. 
+      p(numero="7" titulo="Logística") Contempla el guion de la simulación, el cual contiene el caso clínico, las acciones esperadas de los aprendices, la interacción de otros actores participantes, así como los resultados posibles.  
+      p(numero="8" titulo="Estudios:") Es el conjunto de laboratorios, exámenes u otros documentos en su versión impresa, que posibilita un abordaje clínico adecuado.   
+      p(numero="9" titulo="Marco teórico") Compuesto por la síntesis de la revisión bibliográfica elaborada, con énfasis a la importancia para la población participante. 
+      p(numero="10" titulo="Revisión bibliográfica") Es recomendable emplear información no mayor a cinco años y citar en formato APA o Vancouver. 
   
-    P Además, es ineludible la construcción de un guion o libreto, el cual sirve de base para toda la experiencia de la simulación, orienta las situaciones, prevé los roles y conduce a los participantes en las actividades que deben realizar. Asimismo, contiene acciones de ajuste o modificadores como los life savers (recursos salvavidas) que ayudan a cambiar o redireccionar la escena, en función a cumplir el resultado esperado. 
+    P(data-aos="fade-right") Además, es ineludible la construcción de un guion o libreto, el cual sirve de base para toda la experiencia de la simulación, orienta las situaciones, prevé los roles y conduce a los participantes en las actividades que deben realizar. Asimismo, contiene acciones de ajuste o modificadores como los life savers (recursos salvavidas) que ayudan a cambiar o redireccionar la escena, en función a cumplir el resultado esperado. 
 
-    P Antes de la simulación se realiza el <em>prebriefing</em>, en el cual se brinda la información y los antecedentes necesarios para el desarrollo del ambiente.
+    P(data-aos="fade-right") Antes de la simulación se realiza el <em>prebriefing</em>, en el cual se brinda la información y los antecedentes necesarios para el desarrollo del ambiente.
 
-    P En este punto también se distribuyen los roles y actividades que deben desarrollarse. Cuando la simulación inicia, la tarea del instructor o facilitador es conducir el evento clínico, observar y consignar las acciones de los participantes, manipular el simulador según la intención de la formación. También, los participantes pueden encontrarse con ruidos o señales que son aspectos que aparecen durante el desarrollo del espacio y propenden por orientar y redirigir a los aprendices. Estos pueden ser estímulos auditivos, visuales u olfativos o también un comentario, pregunta o pista del instructor o simulador. De esta manera se procura controlar el ambiente de simulación para el logro efectivo del aprendizaje. 
+    P(data-aos="fade-right") En este punto también se distribuyen los roles y actividades que deben desarrollarse. Cuando la simulación inicia, la tarea del instructor o facilitador es conducir el evento clínico, observar y consignar las acciones de los participantes, manipular el simulador según la intención de la formación. También, los participantes pueden encontrarse con ruidos o señales que son aspectos que aparecen durante el desarrollo del espacio y propenden por orientar y redirigir a los aprendices. Estos pueden ser estímulos auditivos, visuales u olfativos o también un comentario, pregunta o pista del instructor o simulador. De esta manera se procura controlar el ambiente de simulación para el logro efectivo del aprendizaje. 
 
-    P.mb-5 Al terminar el evento simulado es importante que se genere el proceso de evaluación, que no solo comprende la estrategia del <em>feedback</em> y la etapa de <em>debriefing</em>, sino que también procura valorar aspectos como la orientación que brinda el instructor o facilitador y el ambiente de simulación per se.
+    P.mb-5(data-aos="fade-right") Al terminar el evento simulado es importante que se genere el proceso de evaluación, que no solo comprende la estrategia del <em>feedback</em> y la etapa de <em>debriefing</em>, sino que también procura valorar aspectos como la orientación que brinda el instructor o facilitador y el ambiente de simulación per se.
 
 
     .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
@@ -67,12 +67,12 @@
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta-edit")
       .row.col-lg-11.mx-auto(titulo="Diseño y aplicación del <em>prebriefing</em>")
-        .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
+        .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1(data-aos="fade-right")
           p Aquí se instruyen los objetivos de la formación, y los aspectos, condiciones y circunstancias concernientes al caso o evento clínico a desarrollar.
             br
             br
             |Es primordial realizar un buen diseño del <em>prebriefing</em> en el momento de la planeación de cualquier ambiente de aprendizaje, debido a que de esta puede depender el éxito o fracaso de la simulación médica. Para ello, se sugiere tener en cuenta las siguientes consideraciones:  
-        .col-lg-6.mb-4.mb-lg-auto.order-1.order-lg-2
+        .col-lg-6.mb-4.mb-lg-auto.order-1.order-lg-2(data-aos="fade-left")
           figure
             img.mx-auto(src='@/assets/curso/temas/tema4/img-3.svg' style="max-width: 505px")
       
@@ -99,7 +99,7 @@
 
 
 
-    p Es indispensable que el <em>debriefing</em> se realice en su totalidad y que no se menosprecie dentro de todo el escenario simulado. Sin una adecuada retroalimentación el logro de los objetivos formativos puede verse afectado, y por lo tanto todo el proceso de educación. 
+    p(data-aos="fade-right") Es indispensable que el <em>debriefing</em> se realice en su totalidad y que no se menosprecie dentro de todo el escenario simulado. Sin una adecuada retroalimentación el logro de los objetivos formativos puede verse afectado, y por lo tanto todo el proceso de educación. 
 </template>
 
 <script>

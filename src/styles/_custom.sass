@@ -31,6 +31,20 @@
       .banner-interno__fondo
         background-image: url('../assets/curso/portada/fondo-banner-page.svg') !important
 
+.banner-principal
+  .banner-principal__row
+    justify-content: space-around
+    @media (min-width: 1400px)
+      .banner-principal__img
+        padding-right: 0 !important
+        width: 55%
+        img
+          max-width: 632px
+          margin-left: auto
+  .container
+    @media (max-width: 768px)
+      background-position: 20%
+
 .img-text-edit
   align-content: center
   .container-bg
@@ -55,6 +69,7 @@
       margin-right: auto
       margin-bottom: 1.5rem
     .container-bg
+      padding: 1.5rem
       p
         max-width: 100%
 .tarjeta-gray
@@ -73,3 +88,10 @@
   padding-left: 3rem
   padding-right: 3rem
 
+.img-maxwidth-movil-1
+  max-width: 592px
+  @media (max-width: 991px)
+    max-width: 450px
+.text-change-color
+  @media (max-width: 991px)
+    color: white
