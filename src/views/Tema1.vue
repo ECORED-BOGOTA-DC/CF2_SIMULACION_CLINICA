@@ -41,8 +41,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Ejemplo de un laboratorio de simulación en Colombia 
-              p.text-white.text-small
+              h3.mb-1(style="color: #262626") Ejemplo de un laboratorio de simulación en Colombia
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=o0YMDo1qjk0" target="_blank")
                 span Ver
@@ -339,8 +338,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Pirámide Miller:
-              p.text-white.text-small En el siguiente video de Youtube, donde la secretaría de enseñanza clínica e internado médico de México, se explica la finalidad de la pirámide Miller con sus diferentes niveles de conocimiento:
+              h3.mb-1(style="color: #262626") Pirámide Miller:
+              p.text-small(style="color: #262626") En el siguiente video de Youtube, donde la secretaría de enseñanza clínica e internado médico de México, se explica la finalidad de la pirámide Miller con sus diferentes niveles de conocimiento:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=mI9kSPBl_6Q&t=6s" target="_blank")
                 span Ver
@@ -367,8 +366,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Pirámide Miller:
-              p.text-white.text-small En el siguiente video de Youtube, donde la secretaría de enseñanza clínica e internado médico de México, se explica la finalidad de la pirámide Miller con sus diferentes niveles de conocimiento:
+              h3.mb-1(style="color: #262626") Pirámide Miller:
+              p.text-small(style="color: #262626") En el siguiente video de Youtube, donde la secretaría de enseñanza clínica e internado médico de México, se explica la finalidad de la pirámide Miller con sus diferentes niveles de conocimiento:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=lLLPhToBtgI" target="_blank")
                 span Ver
@@ -399,8 +398,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Naturaleza de la comunicación
-              p.text-white.text-small En el siguiente video, se comprenderá el concepto básico de comunicación:
+              h3.mb-1(style="color: #262626") Naturaleza de la comunicación
+              p.text-small(style="color: #262626") En el siguiente video, se comprenderá el concepto básico de comunicación:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://t3.ftcdn.net/jpg/04/66/40/66/240_F_466406624_hwhoF00HhYM8bl5MwxqjHWxTUp42i4Fz.jpg" target="_blank")
                 span Ver

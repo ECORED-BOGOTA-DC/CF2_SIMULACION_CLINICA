@@ -57,8 +57,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Criterios de evaluación en una simulación clínica 
-              p.text-white.text-small En el siguiente documento se puede apreciar un resumen sobre los criterios de evaluación que se pueden tener en cuenta:
+              h3.mb-1(style="color: #262626") Criterios de evaluación en una simulación clínica 
+              p.text-small(style="color: #262626") En el siguiente documento se puede apreciar un resumen sobre los criterios de evaluación que se pueden tener en cuenta:
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/OKEst_Criterios_de_evaluacion_en_una_simulacion_clínica.docx')" target="_blank")
                 span Descargar 

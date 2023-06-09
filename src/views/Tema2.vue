@@ -22,8 +22,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Fases de la simulación clínica 
-              p.text-white.text-small Aquí hace falta un texto
+              h3.mb-1(style="color: #262626") Fases de la simulación clínica
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://youtu.be/5Nng3DX3fTY" target="_blank")
                 span Ver
