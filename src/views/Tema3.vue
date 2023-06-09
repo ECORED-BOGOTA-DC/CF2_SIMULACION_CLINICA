@@ -13,7 +13,7 @@
           br
           br
           |Como se mencionó anteriormente sobre el concepto de cada fase o etapa de la simulación clínica, a continuación se explicará con mayor profundización su importancia y aplicación:
-        img.mb-4.mb-lg-auto.order-1.order-lg-2.col-lg-5(src="@/assets/curso/temas/tema3/img-1.jpg" data-aos="fade-left")
+        img.mb-4.mb-lg-auto.order-1.order-lg-2.col-lg-5(src="@/assets/curso/temas/tema3/img-1.jpg" data-aos="fade-left" alt="representa la definición de un ambiente de simulación según Peter Dieckmann, que describe como un entorno donde varias personas se reúnen en un espacio o tiempo para realizar actividades similares a la realidad utilizando un simulador")
 
     p.mb-5(data-aos="fade-right") Es así que para fortalecer las competencias de los aprendices, se involucran componentes pedagógicos con escenarios y eventos clínicos simulados que mejorarán los conocimientos adquiridos y las prácticas que algún día tendrán que realizarse de manera real. 
       br
@@ -43,7 +43,7 @@
 
 
     .col-lg-6.mx-auto.mb-5
-      img.mb-4(src="@/assets/curso/temas/tema3/img-2.svg" style="max-width: 610px" data-aos="fade-left")
+      img.mb-4(src="@/assets/curso/temas/tema3/img-2.svg" style="max-width: 610px" data-aos="fade-left" alt="Muestra el tipo de necesidades: necesidad de la institución necesidad de los aprendices programas manejo de recursos materiales y recurso humano y la interacción entre ellas.")
       p Nota.SENA (2022)
     
     .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
@@ -52,7 +52,7 @@
           h5.text-small Figura 11
           p.mb-0.text-small Modelo de Kirkpatrick
         .col-lg-7.mx-auto
-          img.mb-2.mx-auto(src="@/assets/curso/temas/tema3/img-3.svg" style="max-width: 610px" data-aos="fade-left")
+          img.mb-2.mx-auto(src="@/assets/curso/temas/tema3/img-3.svg" style="max-width: 610px" data-aos="fade-left" alt="Muestra Pirámide del modelo de Kirkpatrick N4 Evaluación de resultados (Impacto) N3 Evaluación de comportamiento (Conocimiento aplicado) N2 Evaluación del aprendizaje (Conocimiento adquirido) N1 Evaluación de reacción (Satisfacción)")
           span.text-small Nota. Tomado de Enfermero de simulación. (2020).
     
     .bloque-texto-a.color-acento-botones.p-4.col-lg-9.offset-lg-1.mb-5(style="background-color: #A9F8F0")

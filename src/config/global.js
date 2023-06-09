@@ -101,7 +101,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CFA_2_33110293.pdf',
       },
       {
         icono: 'fas fa-download',

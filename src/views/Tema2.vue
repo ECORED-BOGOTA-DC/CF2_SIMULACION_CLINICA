@@ -37,7 +37,7 @@
           h5.text-small Figura 10
           p.mb-0.text-small Momentos de las etapas en simulación clínica 
         .col-lg-6.mx-auto
-          img.mb-2.mx-auto(src="@/assets/curso/temas/tema2/img-9.svg" style="max-width: 610px" data-aos="fade-left")
+          img.mb-2.mx-auto(src="@/assets/curso/temas/tema2/img-9.svg" style="max-width: 610px" data-aos="fade-left" alt="Muestra los 8 momentos de las etapas en simulación clínica: 1 Información previa. Introducción Indicaciones de manejo. Teoría. Socialización del caso clínico. Escenario. Debriefing Conclusión.")
           span.text-small Nota.SENA (2022)
 </template>
 

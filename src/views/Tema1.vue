@@ -30,7 +30,7 @@
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5.img-text-edit
       .container-bg.col-12.col-xl-9.order-2.order-xl-1.py-xl-5
         p(data-aos="fade-right") El tiempo destinado para cada competencia, ya que este debe ser descrito en primera instancia, teniendo en cuenta las habilidades del aprendiz, sin ser excesiva o que genere una práctica rutinaria tanto para el instructor y/o usuario que estará a cargo.
-      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-1.png" data-aos="fade-left")
+      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-1.png" data-aos="fade-left" alt="ilustra el tiempo para la planeación de un proceso de desarrollo")
 
     p.mb-5(data-aos="fade-right") Teniendo en cuenta los términos sobre modalidad y aplicación en zonas simuladas, se recomienda ver el siguiente video, donde se exponen los espacios usados en la simulación clínica de la Universidad Nacional de Colombia (UNAL, 2021):
 
@@ -86,7 +86,7 @@
           h5.text-small Figura 1
           p.mb-0.text-small Objetivos zonas de simulación
         .col-lg-6.mx-auto
-          img.mb-2.mx-auto(src="@/assets/curso/temas/tema1/img-3.svg" style="max-width: 182px" data-aos="fade-left")
+          img.mb-2.mx-auto(src="@/assets/curso/temas/tema1/img-3.svg" style="max-width: 182px" data-aos="fade-left" alt="objetivos con las zonas de simulación")
           span.text-small Nota.SENA (2022)
 
     p.mb-5(data-aos="fade-right") Los objetivos encontrados en la anterior figura, integran las competencias en las cuales se desarrollan habilidades de: 
@@ -106,7 +106,7 @@
 
     p.mb-5(data-aos="fade-right") Actualmente la metodología de aprendizaje en simulación clínica es empleada en las etapas de formación para programas no solo técnicos o tecnológicos, sino que cuenta con un amplio recorrido en la formación en educación superior donde se ha evidenciado que para medicina a nivel mundial ha sido el pilar para el desarrollo en simuladores a diferencia de enfermería y otras áreas que forman el sector de las ciencias de la salud.
 
-    img.mx-auto.mb-5(src="@/assets/curso/temas/tema1/img-4.jpg" style="max-width: 820px" data-aos="fade-right")
+    img.mx-auto.mb-5(src="@/assets/curso/temas/tema1/img-4.jpg" style="max-width: 820px" data-aos="fade-right" alt="metodología de aprendizaje en simulación clínica")
     p.mb-5(data-aos="fade-left") La mayor parte de los diseños curriculares de las instituciones de formación en carreras de la salud, determinan un número de horas prácticas las cuales hoy en día, son realizadas en ambientes simulados, permitiendo reemplazar la teoría y espacios físicos obsoletos que no permitían que el aprendiz se motivara en el proceso de apropiar conocimientos y a interrelacionarse con estrategias modernas y actualizadas, limitando habilidades para llegar a su práctica real. Los avances encontrados en la realidad y gracias a la aplicación de la simulación son el resultado efectivo en la cantidad de estudiantes de todo el mundo quienes manifiestan su satisfacción y agradecimiento a las herramientas y elementos que día a día salen en favor de la educación y que son integradas en procesos de formación profesional.  
       br
       br
@@ -118,7 +118,7 @@
           h5.text-small Figura 2
           p.mb-0.text-small Ciclo de simulación
         .col-lg-10.mx-auto
-          img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-5.svg" style="max-width: 825px" data-aos="fade-left")
+          img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-5.svg" style="max-width: 825px" data-aos="fade-left" alt="ciclos de simulación, necesarios para el proceso de formación")
           span.text-small Nota.SENA (2022)
     p.mb-5(data-aos="fade-right") De manera continua, muchos aprendices que han adquirido mayor experiencia en el proceso simulado, prefieren el trabajo en zonas simuladas encontradas de la 2 a la 4 siendo estas las más altas. Debido a que las actividades son más dinámicas y el trabajo en equipo se ve más fortalecido por la seguridad que van afianzando, lo que beneficia al aprendiz en un ejercicio realizado en la realidad. 
       br
@@ -134,7 +134,7 @@
 
     p.mb-5(data-aos="fade-right") La siguiente figura, es una publicación de Curso de instructores de la Universidad de Francisco Vitoria, donde se exponen los diferentes momentos de las zonas de simulación: 
     
-    img.col-xl-10.mx-auto(src="@/assets/curso/temas/tema1/img-6.svg" data-aos="fade-right")
+    img.col-xl-10.mx-auto(src="@/assets/curso/temas/tema1/img-6.svg" data-aos="fade-right" alt="Zonas de simulación clinica segun el momento")
     Separador
     .titulo-segundo.color-secundario
       h2#t_1_1 1.1 Importancia de la simulación clínica en el proceso de formación 
@@ -153,7 +153,7 @@
           h5.text-small Figura 4
           p.mb-0.text-small Proceso pedagógico en simulación
         .col-lg-10.mx-auto
-          img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-7.svg" style="max-width: 821px" data-aos="fade-left")
+          img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-7.svg" style="max-width: 821px" data-aos="fade-left" alt="se exponen los diferentes momentos de las zonas de simulación. Zona 0 Zona 1 Zona 2 Zona 3 Zona 4")
           span.text-small Nota. Enfermero de simulación (2020).
     
     p.mb-5(data-aos="fade-right") La simulación clínica y los procesos pedagógicos aplicados a la formación no pretenden la sustitución de ambientes reales ni mucho menos aplicar procedimientos y conocimientos en un paciente real. Estos procesos tampoco reemplazarán al instructor ni otras técnicas didácticas desarrolladas en escenarios o eventos clínicos ya planteados para la formación del aprendiz, son procesos generados de estrategias pedagógicas mucho más dinámicas, que tienen capacidad de ser más efectivas frente a quien recibe el entrenamiento. 
@@ -220,7 +220,7 @@
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5.img-text-edit
       .container-bg.col-12.col-xl-9.order-2.order-xl-1
         p(data-aos="fade-right") Estos principios están estructurados en: el aprendiz, quien es quien construye su aprendizaje, esto aplicado desde el “Constructivismo”. Por otro lado, se encuentra el entrenamiento en escenarios en los cuales el aprendiz se ha de enfrentar y en los cuales debe buscar la solución a los casos propuestos de esto se genera un fortalecimiento de sus competencias de aprendizaje; también está la integración de las ciencias básicas y las clínicas que se fortalecen mutuamente y que dan respuesta con mejores resultados. 
-      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-8.svg" data-aos="fade-left")
+      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-8.svg" data-aos="fade-left" alt="se exponen los principios importantes para la formación técnica")
 
     p.mb-5(data-aos="fade-right") Los instrumentos de evaluación y las estrategias con indicadores son elementos claves para retroalimentar de forma específica cada ejercicio dinamizado. La formación por competencias se beneficia de la homologación de títulos con los cuales se puede incentivar al aprendiz en su formación. 
       br
@@ -233,7 +233,7 @@
           h5.text-small Figura 5
           p.mb-0.text-small Principios pedagógicos en simulación
         .col-lg-10.mx-auto
-          img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-9.svg" style="max-width: 617px" data-aos="fade-left")
+          img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-9.svg" style="max-width: 617px" data-aos="fade-left" alt="mapa conceptual de los principios pedagógicos en simulación")
           span.text-small Nota. Enfermero de simulación (2020).
 
     p.mb-4(data-aos="fade-right") Es importante tener claridad en conceptos básicos dentro del entorno de simulación clínica como los siguientes:
@@ -246,25 +246,25 @@
       .row.col-lg-11.mx-auto(titulo="Nivel competencias básicas (instrumentales)")
         .col-lg-3.mb-4.mb-lg-auto(data-aos="fade-right")
           figure
-            img.mx-auto(src='@/assets/curso/temas/tema1/img-10.svg' style="max-width: 260px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-10.svg' style="max-width: 260px" alt="intrumentales para las competencias básicas")
         .col-lg-9.mb-4.mb-lg-0(data-aos="fade-left")
           p Se relacionan con los conocimientos fundamentales y se adquieren en la formación general para la resolución de problemas cotidianos (realización de historia clínica, prescripción farmacológica, semiología, etc.).
       .row.col-lg-11.mx-auto(titulo="Nivel competencias genéricas (transversales, intermedias o generales)")
         .col-lg-3.mb-4.mb-lg-auto
           figure
-            img.mx-auto(src='@/assets/curso/temas/tema1/img-11.svg' style="max-width: 260px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-11.svg' style="max-width: 260px" alt="los tres niveles para la cmpetencia generica transversales, intermedias o generales")
         .col-lg-9.mb-4.mb-lg-0
           p Relacionadas con distintos ámbitos de la profesión; están presentes en varias circunstancias (trabajo en equipo, relación médico-paciente, etc.).
       .row.col-lg-11.mx-auto(titulo="Nivel competencias específicas (técnicas o especializadas)")
         .col-lg-3.mb-4.mb-lg-auto
           figure
-            img.mx-auto(src='@/assets/curso/temas/tema1/img-12.png' style="max-width: 260px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-12.png' style="max-width: 260px" alt="competencias técnicas o especializadas")
         .col-lg-9.mb-4.mb-lg-0
           p Están directamente vinculadas con una ocupación específica dentro de un área de estudio (atención del parto, administración de vacunas, lectura de electrocardiograma, etc.). 
       .row.col-lg-11.mx-auto(titulo="Nivel competencias básicas (instrumentales)")
         .col-lg-3.mb-4.mb-lg-auto
           figure
-            img.mx-auto(src='@/assets/curso/temas/tema1/img-13.jpg' style="max-width: 260px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-13.jpg' style="max-width: 260px" alt="instrumentales para competencis básicas")
         .col-lg-9.mb-4.mb-lg-0
           p Son competencias genéricas de alto nivel que trascienden a otras competencias y parecen favorecer, mejorar o posibilitar la adquisición de otras (autoevaluación, autodesarrollo, creatividad, análisis de problemas).
 
@@ -275,7 +275,7 @@
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5.img-text-edit
       .container-bg.col-12.col-xl-9.order-2.order-xl-1
         p(data-aos="fade-right") Para el rol del instructor en salud y profundizando más en la simulación clínica, se tienen en cuenta componentes que se relacionan con la educación afectiva integrada en los estudios y en el entrenamiento con base en procesos simulados que mejoran las habilidades requeridas por los instructores en procedimientos que deben ser aplicados a pacientes con el objetivo de mantener su seguridad y evitar el menor riesgo posible. 
-      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-15.png")
+      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-15.png" alt="instructor de salud para la simulación clínica")
 
     p.mb-5(data-aos="fade-right") Es importante que los instructores que manejan las áreas simuladas para entrenamiento en salud tengan presente los siguientes momentos en el proceso de evaluación: 
 
@@ -284,28 +284,28 @@
         .row.col-lg-10.mx-auto(titulo="Información")
           .col-md-6.mb-4.mb-md-auto(data-aos="fade-right")
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema1/img-16.png' style="max-width: 482px")
+              img.mx-auto(src='@/assets/curso/temas/tema1/img-16.png' style="max-width: 482px" alt="información que proviene desde el aprendiz del ambiente simulado")
           .col-md-6.mb-4.mb-md-0(data-aos="fade-left")
             h4 Proveer información
             p El ambiente simulado debe permitir en el aprendiz, la comprensión de contenidos que permitan resaltar las ventajas en función de lo aprendido. 
         .row.col-lg-10.mx-auto(titulo="modelo")
           .col-md-6.mb-4.mb-md-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema1/img-17.png' style="max-width: 482px")
+              img.mx-auto(src='@/assets/curso/temas/tema1/img-17.png' style="max-width: 482px" alt="representa la importancia de dar ejemplo y tener una actitud facilitadora en el proceso de enseñanza de habilidades comunicativas")
           .col-md-6.mb-4.mb-md-0
             h4 Ser modelo
             p Dar ejemplo, la actitud como facilitador de las habilidades comunicativas es esencial en el proceso de enseñanza. Cómo tratar a cada paciente de acuerdo a su condición de salud.
         .row.col-lg-10.mx-auto(titulo="Habilidades")
           .col-md-6.mb-4.mb-md-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema1/img-18.png' style="max-width: 482px")
+              img.mx-auto(src='@/assets/curso/temas/tema1/img-18.png' style="max-width: 482px" alt="ilustra la importancia de facilitar y proporcionar orientación clara en los procesos y técnicas que desarrollan habilidad y destreza")
           .col-md-6.mb-4.mb-md-0
             h4 Facilitar desarrollo de habilidades y destrezas
             p El facilitador debe brindar una orientación clara frente a los procesos realizados y las técnicas que desarrollan habilidad y destreza, además de la aplicación del <em>debriefing</em> permitiendo la autorreflexión y la retroalimentación de las actividades realizadas con análisis de cada caso clínico.
         .row.col-lg-10.mx-auto(titulo="Retroalimentar")
           .col-md-6.mb-4.mb-md-auto
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema1/img-19.png' style="max-width: 482px")
+              img.mx-auto(src='@/assets/curso/temas/tema1/img-19.png' style="max-width: 482px" alt="representa el uso de herramientas de evaluación y elementos como instrumentos que facilitan la retroalimentación en un ambiente simulado")
           .col-md-6.mb-4.mb-md-0
             h4 Retroalimentar
             p Las herramientas de evaluación y los elementos como instrumentos que facilitan la retroalimentación dan como resultado un estudio donde se puede evidenciar la capacidad y efectividad de un ambiente simulado. 
@@ -317,8 +317,7 @@
     ImagenInfografica.color-primario.mb-5.col-xl-10.mx-auto(data-aos="fade-left")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema1/img-20.svg')
-          figcaption Leyenda de la imagen
+          img(src='@/assets/curso/temas/tema1/img-20.svg' alt="Muestra la Pirámide de Miller con cuatro fases. Primera fase, segunda fase, tercera fase, cuarta fase.")
 
       .tarjeta.color-acento-botones--borde.p-3(x="63%" y="24.5%" numero="" style="background-color: white; border-color: #8628A5;")
         .h5.mb-2 El hacer
@@ -389,7 +388,7 @@
           h5.text-small Figura 6
           p.mb-0.text-small Etapa de la simulación
         .col-lg-12.mx-auto
-          img.mb-5.mx-auto(src="@/assets/curso/temas/tema1/img-21.svg" style="max-width: 820px" data-aos="fade-left")
+          img.mb-5.mx-auto(src="@/assets/curso/temas/tema1/img-21.svg" style="max-width: 820px" data-aos="fade-left" alt="mapa conceptual de las etapas de la simulación")
           span.text-small Nota.  Escenario de simulación clínica interprofesional sobre delirium mixto en el pregrado de medicina y fisioterapia. Velasco, G. Hernández, L. Daniel, A. (2021). 
     p.mb-5(data-aos="fade-right") Una de las habilidades más valoradas en los ambientes de formación, está en las habilidades de comunicación.
 
@@ -410,7 +409,7 @@
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5.img-text-edit
       .container-bg.col-12.col-xl-9.order-2.order-xl-1
         p(data-aos="fade-right") Las habilidades de comunicación permiten que aprendices e instructores puedan entenderse de una manera más efectiva, así mismo el permiten continuar con la construcción de relaciones positivas donde se mejoran los procesos en las actividades propuestas, las cuales logran el cumplimiento de los objetivos que han sido establecidos en el plan de trabajo y que se afianzan por medio de elementos como: gesticulaciones, escritos, medios digitales entre otros.
-      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-22.png" data-aos="fade-left")
+      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-22.png" data-aos="fade-left" alt="resalta la importancia de las habilidades de comunicación en el proceso de aprendizaje")
 
     p.mb-5(data-aos="fade-right") Las ventajas de la comunicación en los ambientes simulados permiten difundir el conocimiento y la información entre aprendices e instructores, gracias a las experiencias que permiten determinar los elementos que orientan este tipo de actividad. Teniendo en cuenta los tipos de comunicación, en simulación se debe tener en cuenta en la comunicación verbal elementos como el uso de palabras como fundamento en la interacción, o en la escrita algunas herramientas para la comunicación en informes, correo electrónico, carteles etc.; sin embargo, también está la comunicación no verbal en donde el lenguaje corporal, la voz y sus distintos tonos, gesticulaciones, acompañan los procesos comunicativos determinando seguridad y confianza de cada persona. Aplicando a los campos de la simulación clínica los tipos verbal y no verbal tienen una gran importancia en el desarrollo de las habilidades cognitivas y constructivistas las cuales en el escenario o evento clínico serán necesarias para su aprendizaje. 
       br
@@ -472,7 +471,7 @@
     p.mb-5(data-aos="fade-right") A continuación se presentan algunos consejos para mejorar la comunicación en el proceso formativo: 
           
     .d-flex.flex-wrap.mb-5
-      img.col-lg-4.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-23.svg" style="max-width: 394px" data-aos="fade-right")
+      img.col-lg-4.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-23.svg" style="max-width: 394px" data-aos="fade-right" alt="los 5 consejos para mejorar la comunicación en el proceso formativo")
       .col-lg-8.ps-lg-4(data-aos="fade-left")
         LineaTiempoD.color-acento-botones.linea-tiempo-d-edit
           p(numero="1" titulo="Escucha activa") Estoy atento a lo que comunica la otra persona.
@@ -485,8 +484,8 @@
 
     .col-lg-6.mx-auto.img-clic-show(@click="imgDobleClic = true; mostrarIndicador = false;" data-aos="fade-left")
       .indicador--click(v-if="mostrarIndicador")
-      img.img-clic(src="@/assets/curso/temas/tema1/img-24.svg" style="max-width: 650px" :style="imgDobleClic ? 'opacity: 1' : ''")
-      img(src="@/assets/curso/temas/tema1/img-24_1.svg" style="max-width: 650px")
+      img.img-clic(src="@/assets/curso/temas/tema1/img-24.svg" style="max-width: 650px" :style="imgDobleClic ? 'opacity: 1' : ''" alt="beneficios para la comunicación en la simulación clínica")
+      img(src="@/assets/curso/temas/tema1/img-24_1.svg" style="max-width: 650px" alt="beneficios para la comunicación en la simulación clínica")
       p.p-3 Nota. SENA (2022).
     Separador
 
@@ -502,8 +501,8 @@
           h5.text-small Figura 6
           p.mb-0.text-small Etapa de la simulación
         .col-lg-9.mx-auto
-          img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-25.svg" style="max-width: 820px" data-aos="fade-left")
-          span.text-small Nota. Enfermero de simulación. (2020).
+          img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-25.svg" style="max-width: 820px" data-aos="fade-left" alt="Se muestran los diferentes pasos para la planificación de la simulación clínica: A. Idea o propuesta inicial. B. Análisis de las necesidades de la población. C. Objetivos y resultados esperados. D. Diseño de la actividad. E. Diseño del escenario. Simulación. F.Briefring. G. Escenario. H. Debriefring. Transferencia en el entorno real.")
+          span.text-small Enfermero de simulación. (2020).
 
     p.mb-5(data-aos="fade-right") Las ideas iniciales surgen de diversos factores que involucran al docente o facilitador de la simulación y el contexto en el que interactúa. 
       br
@@ -524,8 +523,8 @@
     p.mb-5(data-aos="fade-right") A continuación se presentan los tres grupos y sus componentes para la obtención de datos:
 
     .d-flex.flex-wrap.mb-4
-      img.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema1/img-26.svg" style="max-width: 609px" data-aos="fade-right")
-      img.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema1/img-27.svg" style="max-width: 340px" data-aos="fade-left")
+      img.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema1/img-26.svg" style="max-width: 609px" data-aos="fade-right" alt="grupos para las necesidades formativas en a simulación clínica")
+      img.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema1/img-27.svg" style="max-width: 340px" data-aos="fade-left" alt="componentes para la optención de datos en la simulación clínica")
     p Nota. Enfermero de simulación. (2020).
 
     p.mb-5(data-aos="fade-right") De forma consecuente se deben analizar las necesidades de la población. En este proceso se tienen en cuenta los factores enunciados anteriormente con el fin de lograr consolidar una propuesta, la cual, debe dar respuesta a la finalidad del curso o programa formativo, y suplir los requerimientos de la población en la cual se desarrolla.
@@ -584,12 +583,12 @@
           h5.text-small Figura 8
           p.mb-0.text-small Zonas de la simulación clínica
         .col-lg-12.mx-auto
-          img.mb-5.mx-auto(src="@/assets/curso/temas/tema1/img-28.svg" style="max-width: 1031px" data-aos="fade-left")
+          img.mb-5.mx-auto(src="@/assets/curso/temas/tema1/img-28.svg" style="max-width: 1031px" data-aos="fade-left" alt="descripción para las diferentes zonas de la simulación clínica")
           span.text-small Nota. SENA (2020).
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5.mb-xl-auto.img-text-edit
       .container-bg.col-12.col-xl-9.order-2.order-xl-1
         p(data-aos="fade-right") Después de planificada la actividad se continúa con el diseño del escenario para la simulación, el cual consiste en establecer: los insumos físicos, recursos, equipos, elementos perceptivos (visuales, olfativos, sonoros) y espacios físicos que conformarán el ambiente simulado. Estos elementos del diseño del escenario se escogen de acuerdo a la zona de diseño y al criterio de fidelización que exija la actividad diseñada. Además, no es algo que realiza el docente o instructor con exclusividad, sino que contribuyen expertos, colaboradores y personal de apoyo.
-      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-29.png" data-aos="fade-left")
+      img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-29.png" data-aos="fade-left" alt="representa el proceso de diseño del escenario para una simulación después de planificar una actividad")
     p.mb-5.col-lg-10.col-xl-6.last-text(data-aos="fade-right") Todos los eventos de simulación clínica están distribuidos en tres partes briefing, simulación, <em>debriefing</em> como a continuación de conceptúa brevemente:
     .tarjeta.p-4(style="background-color: #F3F8FF")
       LineaTiempoC.color-secundario(text-small)
@@ -621,7 +620,7 @@
           h5.text-small Figura 9
           p.mb-0.text-small Objetivos zonas de simulación
         .col-lg-6.mx-auto
-          img.mb-2.mx-auto(src="@/assets/curso/temas/tema2/img-4.png" style="max-width: 610px" data-aos="fade-left")
+          img.mb-2.mx-auto(src="@/assets/curso/temas/tema2/img-4.png" style="max-width: 610px" data-aos="fade-left" alt="ilustra los 3 objetivos de la simulación (equipo, psicología y ambiental)")
           span.text-small Nota.SENA (2022)
     p.mb-5(data-aos="fade-right") La relación entre las tres dimensiones permitirá que el escenario simulado sea más fiel a la realidad que se quiere representar. Además, la fidelidad del equipo y la fidelidad ambiental pueden aportar a la construcción de la fidelidad psicológica, pero en ningún momento pueden reemplazarla. Por ello, es elemental que exista una planificación y diseño adecuados a la población y al contexto en el que surge la propuesta de simulación.  
       br
@@ -631,7 +630,7 @@
     ImagenInfografica.color-primario.mb-5.col-xl-10.mx-auto.position-relative(data-aos="fade-left")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema2/img-5.svg')
+          img(src='@/assets/curso/temas/tema2/img-5.svg' alt="mapa sobre los niveles de la simulación según su fidelidad")
 
       .tarjeta.color-acento-botones--borde.p-3(x="10%" y="100%" numero="" style="background-color: white; border-color: #8628A5;")
         .h5.mb-2(style="color: #2C04BF") Objetivos

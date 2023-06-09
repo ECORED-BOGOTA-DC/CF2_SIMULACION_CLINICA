@@ -30,7 +30,8 @@
       height: 160px
       .banner-interno__fondo
         background-image: url('../assets/curso/portada/fondo-banner-page.svg') !important
-
+        background-size: cover
+        background-position: left
 .banner-principal
   .banner-principal__row
     justify-content: space-around
@@ -92,6 +93,7 @@
   max-width: 592px
   @media (max-width: 991px)
     max-width: 450px
-.text-change-color
-  @media (max-width: 991px)
-    color: white
+
+@media (max-width: 991px)
+  .bloque-texto-a:before
+    background-color: transparent !important

@@ -10,7 +10,7 @@
     .tarjeta.mb-5.p-4.px-xl-0(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%); overflow: hidden")
       .col-xl-10.mx-auto.d-flex.flex-wrap
         p.mb-0.order-2.order-lg-1.col-lg-7.pe-lg-5(data-aos="fade-right") Los escenarios sirven como herramientas que contextualizan las condiciones de la simulación, dependiendo del tipo de objetivo, estos pueden cambiar en complejidad y tiempo. Es importante que los escenarios de simulación estén orientados por objetivos definidos exhaustivamente para que las actividades, guiones y recursos empleados permitan construir una experiencia realista y de alta fidelidad. De hecho, entre más realista sea la práctica clínica, mayor será el éxito formativo, y de esta manera se garantizará la apropiación de conocimientos, habilidades o destrezas en el personal de salud.
-        img.mb-4.mb-lg-auto.order-1.order-lg-2.col-lg-5(src="@/assets/curso/temas/tema4/img-1.jpg" data-aos="fade-left")
+        img.mb-4.mb-lg-auto.order-1.order-lg-2.col-lg-5(src="@/assets/curso/temas/tema4/img-1.jpg" data-aos="fade-left" alt="describe la importancia de los escenarios en la simulación como herramientas para contextualizar las condiciones de práctica")
     
     p.mb-5(data-aos="fade-right") Sin embargo, también son importantes los resultados de las interacciones entre los participantes, el ambiente simulado y los objetivos propuestos. Teniendo esto en cuenta, los espacios de simulación pueden ser adecuados o transformados de acuerdo a la evidencia final, es por esto que posterior a cualquier experiencia, la evaluación del diseño y retroalimentación de la práctica clínica son fundamentales para ajustar los procesos y lograr el cumplimiento de la formación.  
       br
@@ -23,7 +23,7 @@
           h5.text-small Figura 12
           p.mb-0.text-small Momentos de las etapas en simulación clínica
         .mx-auto
-          img.mb-2.mx-auto(src="@/assets/curso/temas/tema4/img-2.svg" data-aos="fade-left")
+          img.mb-2.mx-auto(src="@/assets/curso/temas/tema4/img-2.svg" data-aos="fade-left" alt="describe los cuatro momentos para la simuñación clínica")
           span.text-small Nota.SENA (2022)
     p.mb-5(data-aos="fade-right") Posteriormente para planificar y desarrollar el espacio simulado se puede emplear una plantilla que colabore en el montaje del espacio simulado. En la literatura de la simulación clínica existen diversos formatos para ello, pero pueden variar dependiendo de la institución, de sus objetivos, su infraestructura, entre otros factores. 
       br
@@ -74,14 +74,14 @@
             |Es primordial realizar un buen diseño del <em>prebriefing</em> en el momento de la planeación de cualquier ambiente de aprendizaje, debido a que de esta puede depender el éxito o fracaso de la simulación médica. Para ello, se sugiere tener en cuenta las siguientes consideraciones:  
         .col-lg-6.mb-4.mb-lg-auto.order-1.order-lg-2(data-aos="fade-left")
           figure
-            img.mx-auto(src='@/assets/curso/temas/tema4/img-3.svg' style="max-width: 505px")
+            img.mx-auto(src='@/assets/curso/temas/tema4/img-3.svg' style="max-width: 505px" alt="importancia de instruir los objetivos de formación y los aspectos, condiciones y circunstancias relacionados con el caso clínico o evento a desarrollar")
       
       .row.col-lg-11.mx-auto(titulo="Diseño y aplicación del <em>feedback</em>")
         .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
           p El <em>feedback</em> ha sido conceptualizado de diversas maneras dependiendo del enfoque que lo defina, ya sea un instrumento, un ciclo o una estrategia. En la simulación clínica el <em>feedback</em> hace parte del proceso de evaluación y reflexión final que pretende retroalimentar las reacciones y respuestas de los participantes de la simulación clínica. De esta manera se busca revertir de manera positiva la formación del aprendiz y favorecer la cualificación de su práctica, ya sea en la repetición de los escenarios simulados o en contextos clínicos reales.  
         .col-lg-6.mb-4.mb-lg-auto.order-1.order-lg-2
           figure
-            img.mx-auto(src='@/assets/curso/temas/tema4/img-4.svg' style="max-width: 505px")
+            img.mx-auto(src='@/assets/curso/temas/tema4/img-4.svg' style="max-width: 505px" alt="ilustración que aborda el concepto del feedback en la simulación clínica, el cual puede ser considerado como un instrumento, un ciclo o una estrategia según el enfoque que se le dé")
       
       .row.col-lg-11.mx-auto(titulo="Diseño y aplicación del <em>prebriefing</em>")
         .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
@@ -94,10 +94,7 @@
             |En la tercera fase se sintetizan los aprendizajes obtenidos para convertirlos en “lecciones de vida”. En este instante el debriefer debe generar espacios en los cuales los participantes puedan realizar sus propias conclusiones. 
         .col-lg-6.mb-4.mb-lg-auto.order-1.order-lg-2
           figure
-            img.mx-auto(src='@/assets/curso/temas/tema4/img-5.svg' style="max-width: 505px")
-
-
-
+            img.mx-auto(src='@/assets/curso/temas/tema4/img-5.svg' style="max-width: 505px" alt="ilustra las tres fases del proceso de debriefing en la simulación")
 
     p(data-aos="fade-right") Es indispensable que el <em>debriefing</em> se realice en su totalidad y que no se menosprecie dentro de todo el escenario simulado. Sin una adecuada retroalimentación el logro de los objetivos formativos puede verse afectado, y por lo tanto todo el proceso de educación. 
 </template>
