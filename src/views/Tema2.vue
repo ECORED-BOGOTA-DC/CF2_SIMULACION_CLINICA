@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span.text-white 2
-      h1 Teorías de la simulación clínica
+      h1 Fases de Simulación Clínica
 
     p.mb-5(data-aos="fade-right") De acuerdo con Peter Dieckmann, un ambiente de simulación se define como aquel donde al reunirse varias personas en un espacio o tiempo, pueden realizar actividades que se asemejan a la realidad en torno a un simulador (Elsevier, 2015). Esta práctica social, tiene como fin dar cumplimiento a los objetivos propuestos para el aprendizaje. Peter Dieckmann diseñó un modelo en el cual se puede entender de una manera más clara las actividades realizadas en simulación, dividido en tres (3) fases con ocho (8) momentos diferentes.
       br
@@ -34,9 +34,9 @@
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 10
-          p.mb-0.text-small Momentos de las etapas en simulación clínica 
+          span.d-block.text-small Momentos de las etapas en simulación clínica 
         .col-lg-6.mx-auto
-          img.mb-2.mx-auto(src="@/assets/curso/temas/tema2/img-9.svg" style="max-width: 610px" data-aos="fade-left" alt="Muestra los 8 momentos de las etapas en simulación clínica: 1 Información previa. Introducción Indicaciones de manejo. Teoría. Socialización del caso clínico. Escenario. Debriefing Conclusión.")
+          img.mb-2.mx-auto(src="@/assets/curso/temas/tema2/img-9.svg" style="max-width: 610px" data-aos="fade-left" alt="Muestra los 8 momentos de las etapas en simulación clínica: 1 Información previa. Introducción Indicaciones de manejo. Teoría. Socialización del caso clínico. Escenario. <em>Debriefing</em> Conclusión.")
           span.text-small Nota.SENA (2022)
 </template>
 
@@ -46,7 +46,7 @@ export default {
   data: () => ({
     datosSlyder: [
       {
-        titulo: 'Primera etapa “<em>Prebriefing</em>”',
+        titulo: 'Primera etapa “<em>prebriefing</em>”',
         texto:
           'También llamada diagnóstico clínico, donde se encuentra la información previa e información general de las actividades de aprendizaje con simulación identificando limitaciones o beneficios, la introducción a los ambientes de simulación donde se pretende contextualizar frente al conocimiento del simulador. Para este momento se prepara la llegada del aprendiz y se incentiva al desarrollo de las actividades propuestas para la formación. Con estas indicaciones se da seguridad en la creación del ambiente de aprendizaje siendo este positivo y adecuado.',
         imagen: require('@/assets/curso/temas/tema2/img-6.png'),

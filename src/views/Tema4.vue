@@ -21,7 +21,7 @@
       .col-lg-11.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 12
-          p.mb-0.text-small Momentos de las etapas en simulación clínica
+          span.d-block.text-small Aspectos que anteceden el diseño de una simulación
         .mx-auto
           img.mb-2.mx-auto(src="@/assets/curso/temas/tema4/img-2.svg" data-aos="fade-left" alt="describe los cuatro momentos para la simuñación clínica")
           span.text-small Nota.SENA (2022)
@@ -30,14 +30,14 @@
       |Sin embargo, entre todos estos pueden encontrarse elementos en común como: 
 
     LineaTiempoD.color-acento-contenido.mb-5.linea-tiempo-d-edit-2.col-lg-7.ms-auto(data-aos="fade-left")
-      p(numero="1" titulo="Título del escenario:") Brinda una idea sobre el escenario. 
-      p(numero="2" titulo="Objetivos:") Que plantean de manera general y especifica las competencias técnicas y no técnicas a aprender.  
+      p(numero="1" titulo="Título del escenario") Brinda una idea sobre el escenario. 
+      p(numero="2" titulo="Objetivos") Que plantean de manera general y especifica las competencias técnicas y no técnicas a aprender.  
       p(numero="3" titulo="Índice") Enumera los apartados del escenario.  
       p(numero="4" titulo="Lista de recursos") Detalla los insumos, materiales y talento humano que se requiere para la ejecución del espacio de simulación.  
       p(numero="5" titulo="Puntos básicos") En este elemento se especifican y se explican las etapas de la simulación, la cual consta del <em>prebriefing</em>, los aspectos propios del desarrollo del escenario, y el <em>debriefing</em>. 
-      p(numero="6" titulo="Flujograma") Se detalla de manera sucinta el tiempo distribuido en el <em>debriefing</em>, simulación y <em>debriefing</em>. 
+      p(numero="6" titulo="Flujograma") Se detalla de manera sucinta el tiempo distribuido en el <em>prebriefing</em>, simulación y <em>debriefing</em>. 
       p(numero="7" titulo="Logística") Contempla el guion de la simulación, el cual contiene el caso clínico, las acciones esperadas de los aprendices, la interacción de otros actores participantes, así como los resultados posibles.  
-      p(numero="8" titulo="Estudios:") Es el conjunto de laboratorios, exámenes u otros documentos en su versión impresa, que posibilita un abordaje clínico adecuado.   
+      p(numero="8" titulo="Estudios") Es el conjunto de laboratorios, exámenes u otros documentos en su versión impresa, que posibilita un abordaje clínico adecuado.   
       p(numero="9" titulo="Marco teórico") Compuesto por la síntesis de la revisión bibliográfica elaborada, con énfasis a la importancia para la población participante. 
       p(numero="10" titulo="Revisión bibliográfica") Es recomendable emplear información no mayor a cinco años y citar en formato APA o Vancouver. 
   
@@ -83,7 +83,7 @@
           figure
             img.mx-auto(src='@/assets/curso/temas/tema4/img-4.svg' style="max-width: 505px" alt="ilustración que aborda el concepto del feedback en la simulación clínica, el cual puede ser considerado como un instrumento, un ciclo o una estrategia según el enfoque que se le dé")
       
-      .row.col-lg-11.mx-auto(titulo="Diseño y aplicación del <em>prebriefing</em>")
+      .row.col-lg-11.mx-auto(titulo="Diseño y aplicación del <em>debriefing</em>")
         .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
           p En la primera fase se promueve que los participantes puedan expresar sus reacciones inmediatas a la simulación.
             br
@@ -94,7 +94,7 @@
             |En la tercera fase se sintetizan los aprendizajes obtenidos para convertirlos en “lecciones de vida”. En este instante el debriefer debe generar espacios en los cuales los participantes puedan realizar sus propias conclusiones. 
         .col-lg-6.mb-4.mb-lg-auto.order-1.order-lg-2
           figure
-            img.mx-auto(src='@/assets/curso/temas/tema4/img-5.svg' style="max-width: 505px" alt="ilustra las tres fases del proceso de debriefing en la simulación")
+            img.mx-auto(src='@/assets/curso/temas/tema4/img-5.svg' style="max-width: 505px" alt="ilustra las tres fases del proceso de <em>debriefing</em> en la simulación")
 
     p(data-aos="fade-right") Es indispensable que el <em>debriefing</em> se realice en su totalidad y que no se menosprecie dentro de todo el escenario simulado. Sin una adecuada retroalimentación el logro de los objetivos formativos puede verse afectado, y por lo tanto todo el proceso de educación. 
 </template>

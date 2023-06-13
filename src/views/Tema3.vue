@@ -9,10 +9,15 @@
     
     .tarjeta.mb-5.p-4.px-xl-0(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%); overflow: hidden")
       .col-xl-10.mx-auto.d-flex.flex-wrap
-        p.mb-0.order-2.order-lg-1.col-lg-7.pe-lg-5(data-aos="fade-right") De acuerdo con Peter Dieckmann, un ambiente de simulación se define como aquel donde al reunirse varias personas en un espacio o tiempo, pueden realizar actividades que se asemejan a la realidad en torno a un simulador (Elsevier, 2015). Esta práctica social, tiene como fin dar cumplimiento a los objetivos propuestos para el aprendizaje. Peter Dieckmann diseñó un modelo en el cual se puede entender de una manera más clara las actividades realizadas en simulación, dividido en tres (3) fases con ocho (8) momentos diferentes.
+        p.mb-0.order-2.order-lg-1.col-lg-7.pe-lg-5(data-aos="fade-right") Para que los procesos de formación cumplan los objetivos esperados y estén en mejora continua es primordial
           br
+          |realizar de manera permanente el análisis de necesidades.
           br
-          |Como se mencionó anteriormente sobre el concepto de cada fase o etapa de la simulación clínica, a continuación se explicará con mayor profundización su importancia y aplicación:
+          |Hoy en día los programas académicos, sin importar el nivel de formación: técnico, tecnológico, y profesional, se
+          br
+          |vienen apoyando en las nuevas tecnologías de la información, permitiendo que los diseños curriculares integren
+          br
+          |innovación y necesidades reales del sector salud. 
         img.mb-4.mb-lg-auto.order-1.order-lg-2.col-lg-5(src="@/assets/curso/temas/tema3/img-1.jpg" data-aos="fade-left" alt="representa la definición de un ambiente de simulación según Peter Dieckmann, que describe como un entorno donde varias personas se reúnen en un espacio o tiempo para realizar actividades similares a la realidad utilizando un simulador")
 
     p.mb-5(data-aos="fade-right") Es así que para fortalecer las competencias de los aprendices, se involucran componentes pedagógicos con escenarios y eventos clínicos simulados que mejorarán los conocimientos adquiridos y las prácticas que algún día tendrán que realizarse de manera real. 
@@ -20,14 +25,14 @@
       br
       |Es por ello, que una vez aplicados los procesos de simulación clínica, se deben analizar los resultados  del proceso de enseñanza mediante actividades que no solo le conciernen al docente o instructor, sino también al aprendiz:
     ul.mb-5
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Retroalimentación de temas.
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Análisis de los contenidos encontrados en cada escenario.
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") La capacidad de resolución frente a casos o eventos clínicos.
     p.mb-5(data-aos="fade-right") Este proceso se constituye en soporte para motivar al aprendiz a alcanzar el objetivo de articular la simulación con el aprendizaje, promoviendo así el desarrollo de habilidades técnicas, comunicativas y de trabajo en equipo y que su apropiación de conocimiento sea de manera escalonada en el cual se evalúe no solo el conocimiento, sino que también, la habilidades frente al cómo  se hacen las diferentes actividades en relación con su rol, aplicando primero las habilidades en un ambiente simulado y luego en un ambiente real.
 
@@ -45,12 +50,17 @@
     .col-lg-6.mx-auto.mb-5
       img.mb-4(src="@/assets/curso/temas/tema3/img-2.svg" style="max-width: 610px" data-aos="fade-left" alt="Muestra el tipo de necesidades: necesidad de la institución necesidad de los aprendices programas manejo de recursos materiales y recurso humano y la interacción entre ellas.")
       p Nota.SENA (2022)
-    
+    p.mb-5 La realización del análisis mide los resultados de manera significativa frente a los factores encontrados, las necesidades de mejora y los cambios que determinan la experiencia vivida por el aprendiz en los ambientes de simulación.
+      br
+      |Como insumo para este tipo de procesos se puede tener en cuenta la pirámide de Kirkpatrick, que es considerado uno de los modelos que permite la evaluación de los programas de entrenamiento de los aprendices, en lo relacionado con la apropiación del conocimiento y los resultados de aprendizaje.
+      br
+      br
+      |En la siguiente figura se visualizan los cuatro (4) niveles de evaluación según el modelo kirkpatrick:
     .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 11
-          p.mb-0.text-small Modelo de Kirkpatrick
+          span.d-block.text-small Modelo de Kirkpatrick
         .col-lg-7.mx-auto
           img.mb-2.mx-auto(src="@/assets/curso/temas/tema3/img-3.svg" style="max-width: 610px" data-aos="fade-left" alt="Muestra Pirámide del modelo de Kirkpatrick N4 Evaluación de resultados (Impacto) N3 Evaluación de comportamiento (Conocimiento aplicado) N2 Evaluación del aprendizaje (Conocimiento adquirido) N1 Evaluación de reacción (Satisfacción)")
           span.text-small Nota. Tomado de Enfermero de simulación. (2020).
@@ -68,23 +78,23 @@
     p.mb-5(data-aos="fade-right") Los ambientes simulados en el aspecto formativo procuran el desarrollo en los aprendices de aquellas competencias técnicas, no técnicas y profesionales que requieren para un desempeño adecuado y eficiente en el momento que deban enfrentarse a ambientes clínicos reales. Sin embargo, el éxito o fracaso de los primeros dependen de diversos aspectos como: 
 
     ul.mb-5
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Recurso humano y recursos económicos.
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Insumos, materiales de la institución.
-      li.d-flex
-        img(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
+      li.d-flex.align-items-start
+        img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") Objetivo del simulacros.
-    p.mb-5(data-aos="fade-right") En el caso de los ambientes reales el acceso que tienen los programas de salud es en los centros hospitalarios y/o clínicas. Este acceso puede ser difícil, además los aprendizajes se enfrentan a situaciones reales que pueden aumentar la posibilidad de riesgo de los pacientes y de los aprendices. 
+    p.mb-5(data-aos="fade-right") En el caso de los ambientes reales el acceso que tienen los programas de salud es en los centros hospitalarios o clínicas. Este acceso puede ser difícil, además los aprendizajes se enfrentan a situaciones reales que pueden aumentar la posibilidad de riesgo de los pacientes y de los aprendices. 
       br
       br
       |A continuación, se describen las ventajas y desventajas de cada escenario, tanto simulado como real (ver tabla): 
 
     .titulo-sexto.color-primario
-      h5 Tabla 1.
-      span Ventajas de simulación en formación
+      h5 Tabla 3.
+      span.d-block.text-small Beneficios y desventajas de los ambientes de aprendizaje clínicos reales ty simulados
     
     .tabla-a.color-primario.mb-5 
       table
