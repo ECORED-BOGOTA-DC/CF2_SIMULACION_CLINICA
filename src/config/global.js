@@ -172,7 +172,7 @@ export default {
     {
       termino: 'Observación',
       significado:
-        'Método de <em>Debriefing</em>, donde se declara lo que se observa en la ejecución de la simulación.',
+        'Método de <em>debriefing</em>, donde se declara lo que se observa en la ejecución de la simulación.',
     },
     {
       termino: '<em>Prebriefing</em>',
@@ -266,14 +266,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Líder del equipo',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -292,9 +293,16 @@ export default {
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial.',
         },
         {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor Metodológico',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Asesor Metodológico',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología.',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
@@ -305,7 +313,8 @@ export default {
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
           cargo: 'Corrector de Estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -314,28 +323,33 @@ export default {
       autores: [
         {
           nombre: 'Adriana Marcela Suarez Eljure',
-          cargo: 'Diseñador web',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          cargo: 'Diseño web',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Jhon Edinson Castañeda Oviedo',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          cargo: 'Desarrollo Fullstack',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -343,14 +357,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Validación de contenidos accesibles',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos y vinculación en plataforma LMS',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Leyson Fabian Castaño Pérez',
+          cargo: 'Validación de recursos educativos digitales',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },

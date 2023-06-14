@@ -15,7 +15,7 @@
       SlyderB.col-xl-11(:datos="datosSlyder" data-aos="fade-left")
     p.mb-5 Dentro de las fases de la simulación, existen algunos momentos que son importantes como se evidencia en el siguiente video (Departamento de Integración de Ciencias Médicas, 2020):
 
-    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, #DBF6FF 0%, #E3E3FF 100%);")
       .row.justify-content-around.align-items-center.py-4.px-3
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-right")
@@ -30,7 +30,7 @@
     
     p.mb-5(data-aos="fade-right") Los ocho (8) momentos mencionados dentro de las tres (3) fases se presentan en la siguiente figura, es de resaltar que los momentos cinco (5), seis (6) y siete (7) son recomendados para integrar el pensamiento crítico en la formación durante su proceso de ejecución. 
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 10
@@ -46,7 +46,7 @@ export default {
   data: () => ({
     datosSlyder: [
       {
-        titulo: 'Primera etapa “<em>prebriefing</em>”',
+        titulo: 'Primera etapa <em>prebriefing</em>',
         texto:
           'También llamada diagnóstico clínico, donde se encuentra la información previa e información general de las actividades de aprendizaje con simulación identificando limitaciones o beneficios, la introducción a los ambientes de simulación donde se pretende contextualizar frente al conocimiento del simulador. Para este momento se prepara la llegada del aprendiz y se incentiva al desarrollo de las actividades propuestas para la formación. Con estas indicaciones se da seguridad en la creación del ambiente de aprendizaje siendo este positivo y adecuado.',
         imagen: require('@/assets/curso/temas/tema2/img-6.png'),

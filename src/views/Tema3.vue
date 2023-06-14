@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span.text-white 3
-      h1 Productos farmacéuticos
+      h1 Análisis de necesidades en los procesos de formación 
     
     .tarjeta.mb-5.p-4.px-xl-0(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%); overflow: hidden")
       .col-xl-10.mx-auto.d-flex.flex-wrap
@@ -47,8 +47,8 @@
     p.mb-5(data-aos="fade-right") En la siguiente figura se tienen en cuenta los factores que inciden en cada tipo de necesidad para un modelo de simulación clínica: 
 
 
-    .col-lg-6.mx-auto.mb-5
-      img.mb-4(src="@/assets/curso/temas/tema3/img-2.svg" style="max-width: 610px" data-aos="fade-left" alt="Muestra el tipo de necesidades: necesidad de la institución necesidad de los aprendices programas manejo de recursos materiales y recurso humano y la interacción entre ellas.")
+    .col-lg-11.mx-auto.mb-5
+      img.mb-4(src="@/assets/curso/temas/tema3/img-2.svg" style="max-width: 1030px" data-aos="fade-left" alt="Muestra el tipo de necesidades: necesidad de la institución necesidad de los aprendices programas manejo de recursos materiales y recurso humano y la interacción entre ellas.")
       p Nota.SENA (2022)
     p.mb-5 La realización del análisis mide los resultados de manera significativa frente a los factores encontrados, las necesidades de mejora y los cambios que determinan la experiencia vivida por el aprendiz en los ambientes de simulación.
       br
@@ -56,7 +56,7 @@
       br
       br
       |En la siguiente figura se visualizan los cuatro (4) niveles de evaluación según el modelo kirkpatrick:
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 11

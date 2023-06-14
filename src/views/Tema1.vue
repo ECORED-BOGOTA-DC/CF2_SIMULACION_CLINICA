@@ -34,7 +34,7 @@
 
     p.mb-5(data-aos="fade-right") Teniendo en cuenta los términos sobre modalidad y aplicación en zonas simuladas, se recomienda ver el siguiente video, donde se exponen los espacios usados en la simulación clínica de la Universidad Nacional de Colombia (UNAL, 2021):
 
-    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, #DBF6FF 0%, #E3E3FF 100%);")
       .row.justify-content-around.align-items-center.py-4.px-3
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-right")
@@ -46,7 +46,7 @@
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=o0YMDo1qjk0" target="_blank")
                 span Ver
                 img.ms-4(src="@/assets/curso/temas/decorador-2.svg" style="max-width: 40px")
-    p.mb-5(data-aos="fade-right") Esta organización en los ambientes y tiempos encontrados en las modalidades de aprendizaje, permiten realizar análisis en la implementación de simuladores, los cuales en cada caso o evento clínico propuesto señalan que para apropiar conocimientos de modo eficiente, el aprendiz no debe estar motivado por una presión por aprender sino por adquirir habilidades y destrezas, que le permitan garantizar la seguridad de su paciente, generando confianza y aplicando los conocimientos al momento de hacer sus procedimientos con él.
+    p.mb-5(data-aos="fade-right") Esta organización en los ambientes y tiempos encontrados en las modalidades de aprendizaje, permite realizar análisis en la implementación de simuladores, los cuales en cada caso o evento clínico propuesto señalan que para apropiar conocimientos de modo eficiente, el aprendiz no debe estar motivado por una presión por aprender sino por adquirir habilidades y destrezas, que le permitan garantizar la seguridad de su paciente, generando confianza y aplicando los conocimientos al momento de hacer sus procedimientos con él.
       br
       br
       |De esta manera los ambientes simulados, dan lugar a la aplicación de las teorías de aprendizaje que fundamentan las habilidades que son desarrolladas de acuerdo a cada método de conocimiento propuesto y que se desarrollan de acuerdo a las experiencias vividas por cada aprendiz.
@@ -79,7 +79,7 @@
 
     p.mb-5(data-aos="fade-right") Algunos de los objetivos con las zonas de simulación son (ver figura):
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 1
@@ -111,13 +111,13 @@
       br
       |En la siguiente figura se exponen los ciclos de simulación, necesarios para el proceso de formación:
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 2
           span.d-block.text-small Ciclo de simulación
-        .col-lg-10.mx-auto
-          img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-5.svg" style="max-width: 825px" data-aos="fade-left" alt="ciclos de simulación, necesarios para el proceso de formación")
+        .col-lg-12.mx-auto
+          img.mb-4.mx-auto(src="@/assets/curso/temas/tema1/img-5.svg" style="max-width: 1030px" data-aos="fade-left" alt="ciclos de simulación, necesarios para el proceso de formación")
           span.text-small Nota.SENA (2022)
     p.mb-5(data-aos="fade-right") De manera continua, muchos aprendices que han adquirido mayor experiencia en el proceso simulado, prefieren el trabajo en zonas simuladas encontradas de la 2 a la 4 siendo estas las más altas. Debido a que las actividades son más dinámicas y el trabajo en equipo se ve más fortalecido por la seguridad que van afianzando, lo que beneficia al aprendiz en un ejercicio realizado en la realidad. 
       br
@@ -148,7 +148,7 @@
 
     p.mb-5(data-aos="fade-right") Para implementar un proceso pedagógico en simulación se recomiendan los siguientes pasos (ver figura):
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 4
@@ -220,7 +220,7 @@
 
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5.img-text-edit
       .container-bg.col-12.col-xl-9.order-2.order-xl-1
-        p(data-aos="fade-right") Estos principios están estructurados en el aprendiz, quien es quien construye su aprendizaje, esto aplicado desde el “constructivismo”. Por otro lado, se encuentra el entrenamiento a escenarios en los cuales el aprendiz se ha de enfrentar y en los cuales debe buscar la solución a los casos propuestos de esto se genera un fortalecimiento de sus competencias de aprendizaje; también está la integración de las ciencias básicas y las clínicas que se fortalecen mutuamente y que dan respuesta con mejores resultados. 
+        p(data-aos="fade-right") Estos principios están estructurados en el aprendiz, quien es quien construye su aprendizaje, esto aplicado desde el “constructivismo”. Por otro lado, se encuentra el entrenamiento a escenarios a los cuales el aprendiz se ha de enfrentar y en los cuales debe buscar la solución a los casos propuestos de esto se genera un fortalecimiento de sus competencias de aprendizaje; también está la integración de las ciencias básicas y las clínicas que se fortalecen mutuamente y que dan respuesta con mejores resultados. 
       img.col-xl-6.order-1.order-xl-2.img-maxwidth-movil-1(src="@/assets/curso/temas/tema1/img-8.svg" data-aos="fade-left" alt="se exponen los principios importantes para la formación técnica")
 
     p.mb-5(data-aos="fade-right") Los instrumentos de evaluación y las estrategias con indicadores son elementos claves para retroalimentar de forma específica cada ejercicio dinamizado. La formación por competencias se beneficia de la homologación de títulos con los cuales se puede incentivar al aprendiz en su formación. 
@@ -228,7 +228,7 @@
       br
       |Algunos principios, en los que se basan para el proceso formativo en simulación son (ver figura):
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 5
@@ -333,7 +333,7 @@
         .h5.mb-2 Saber
         p La primera base tiene como objetivo evaluar los conocimientos previos o indefinidos denominados, para el efecto, “saber”. 
 
-    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, #DBF6FF 0%, #E3E3FF 100%);")
       .row.justify-content-around.align-items-center.py-4.px-3
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-right")
@@ -361,7 +361,7 @@
     
     p.mb-5(data-aos="fade-right") La comunicación es uno de los elementos más estudiados desde las distintas áreas del conocimiento, se define como todo proceso complejo en el cual participan varios elementos y herramientas que organizadas hacen que la información llegue a distintos medios de manera dinámica. 
 
-    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, #DBF6FF 0%, #E3E3FF 100%);")
       .row.justify-content-around.align-items-center.py-4.px-3
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-right")
@@ -383,13 +383,13 @@
       br
       |A continuación, en la siguiente figura se evidencia un ejemplo en el cual en cada etapa de simulación son aplicadas las habilidades de comunicación junto a los elementos que   las conforman. 
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 6
           span.d-block.text-small Etapa de la simulación
-        .col-lg-12.mx-auto
-          img.mb-5.mx-auto(src="@/assets/curso/temas/tema1/img-21.svg" style="max-width: 820px" data-aos="fade-left" alt="mapa conceptual de las etapas de la simulación")
+        .col-lg-12.col-xl-10.mx-auto
+          img.mb-5.mx-auto(src="@/assets/curso/temas/tema1/img-21.svg" style="max-width: 868px" data-aos="fade-left" alt="mapa conceptual de las etapas de la simulación")
           span.text-small Nota.  Escenario de simulación clínica interprofesional sobre delirium mixto en el pregrado de medicina y fisioterapia. Velasco, G. Hernández, L. Daniel, A. (2021). 
     p.mb-5(data-aos="fade-right") Una de las habilidades más valoradas en los ambientes de formación, está en las habilidades de comunicación.
 
@@ -482,7 +482,7 @@
     p.mb-5(data-aos="fade-right") La planificación de los escenarios simulados es una etapa importante para el logro de los objetivos formativos. Esta no debe partir únicamente del docente o instructor, sino que debe considerar desde un primer momento los recursos con los cuales cuenta la institución y el perfil del profesional. Para planificar un espacio simulado se proponen los siguientes pasos (ver figura): 
 
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 6
@@ -564,7 +564,7 @@
       br
       |Para el diseño de la actividad simulada esta debe partir de los aspectos definidos anteriormente, y con base en ello definir la zona de aplicabilidad del escenario simulado, la cual puede desarrollarse siguiendo lo presentado en la siguiente figura que permite reconocer el significado de la zona 0 a la 4:
 
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 8
@@ -601,7 +601,7 @@
       br
       |La fidelidad puede desarrollarse en tres dimensiones (ver figura):
     
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-10.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 9
@@ -627,7 +627,7 @@
           br
           |Los ambientes clínicos diseñados son de baja complejidad.
         .h5.mb-2(style="color: #2C04BF") Tipos de simuladores:
-        p Se emplean equipos como los <em>Part task trainers</em>, en los cuales se pueden encontrar modelos como dorsos para RSP o brazos para punción venosa.  
+        p Se emplean equipos como los <em>Part Task Trainers</em>, en los cuales se pueden encontrar modelos como dorsos para RSP o brazos para punción venosa.  
           br
           |También el mantenimiento y consumibles que se emplean son de baja inversión.
 
@@ -642,7 +642,7 @@
         .h5.mb-2(style="color: #2C04BF") Tipos de simuladores:
         p Se emplean equipos como maniquíes que imitan funciones básicas de un paciente como la respiración o los ritmos cardiacos.
           br
-          |También se suele recurrir a pacientes simulados o estandarizados que consiste en un sujeto entrenado para realizar el rol de paciente. Si se emplea un <em>Part task trainers</em> como reemplazo de alguna de las partes del paciente estandarizado se referirá a un simulador híbrido.
+          |También se suele recurrir a pacientes simulados o estandarizados que consiste en un sujeto entrenado para realizar el rol de paciente. Si se emplea un <em>Part Task Trainers</em> como reemplazo de alguna de las partes del paciente estandarizado se referirá a un simulador híbrido.
           br
           |El uso de simuladores hápticos, los cuales se componen de un <em>software</em> de realidad virtual, que permite al participante sentir algunas sensaciones por medio del tacto.
       

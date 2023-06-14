@@ -17,7 +17,7 @@
       br
       |Antes de diseñar un espacio simulado es importante tener en cuenta (ver figura):
     
-    .tarjeta.p-4.mb-5(style="background-color: #F4F4FF; overflow: hidden;")
+    .tarjeta.p-4.mb-5(style="background: linear-gradient(0deg, rgba(71, 71, 255, 4%) 5%, white 10%,  white 90%, rgba(71, 71, 255, 4%) 96%); overflow: hidden;")
       .col-lg-11.mx-auto
         .titulo-sexto.color-acento-botones
           h5.text-small Figura 12
@@ -50,7 +50,7 @@
     P.mb-5(data-aos="fade-right") Al terminar el evento simulado es importante que se genere el proceso de evaluación, que no solo comprende la estrategia del <em>feedback</em> y la etapa de <em>debriefing</em>, sino que también procura valorar aspectos como la orientación que brinda el instructor o facilitador y el ambiente de simulación per se.
 
 
-    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, rgba(99,242,228,1) 0%, rgba(71,71,255,1) 100%);")
+    .tarjeta.color-primario.p-3.mb-5.col-lg-10.mx-auto(style="background: linear-gradient(0deg, #DBF6FF 0%, #E3E3FF 100%);")
       .row.justify-content-around.align-items-center.py-4.px-3
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/img-2.svg" data-aos="fade-right")
