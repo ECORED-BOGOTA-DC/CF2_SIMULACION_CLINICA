@@ -294,7 +294,7 @@ export default {
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Asesor Metodológico',
+          cargo: 'Metodología para la formación virtual',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
