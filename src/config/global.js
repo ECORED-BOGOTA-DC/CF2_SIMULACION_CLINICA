@@ -103,11 +103,11 @@ export default {
         titulo: 'Descargar PDF',
         download: 'downloads/CFA_2_33110293.pdf',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      // {
+      //   icono: 'fas fa-download',
+      //   titulo: 'Descargar material',
+      //   download: 'downloads/material.zip',
+      // },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -300,7 +300,7 @@ export default {
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesora Metodológico',
+          cargo: 'Asesora Metodológica',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
