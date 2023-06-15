@@ -627,7 +627,7 @@
           br
           |Los ambientes clínicos diseñados son de baja complejidad.
         .h5.mb-2(style="color: #2C04BF") Tipos de simuladores:
-        p Se emplean equipos como los <em>Part Task Trainers</em>, en los cuales se pueden encontrar modelos como dorsos para RSP o brazos para punción venosa.  
+        p Se emplean equipos como los Part Task Trainers, en los cuales se pueden encontrar modelos como dorsos para RSP o brazos para punción venosa.  
           br
           |También el mantenimiento y consumibles que se emplean son de baja inversión.
 
@@ -642,7 +642,7 @@
         .h5.mb-2(style="color: #2C04BF") Tipos de simuladores:
         p Se emplean equipos como maniquíes que imitan funciones básicas de un paciente como la respiración o los ritmos cardiacos.
           br
-          |También se suele recurrir a pacientes simulados o estandarizados que consiste en un sujeto entrenado para realizar el rol de paciente. Si se emplea un <em>Part Task Trainers</em> como reemplazo de alguna de las partes del paciente estandarizado se referirá a un simulador híbrido.
+          |También se suele recurrir a pacientes simulados o estandarizados que consiste en un sujeto entrenado para realizar el rol de paciente. Si se emplea un Part Task Trainers como reemplazo de alguna de las partes del paciente estandarizado se referirá a un simulador híbrido.
           br
           |El uso de simuladores hápticos, los cuales se componen de un <em>software</em> de realidad virtual, que permite al participante sentir algunas sensaciones por medio del tacto.
       
