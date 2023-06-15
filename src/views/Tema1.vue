@@ -56,7 +56,7 @@
     
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Pnolu_840EQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-1(data-aos="fade-right") Dentro de los centros de simulación, se tienen en cuenta los contextos asistenciales, los cuales tienen muchas diferencias si se tratara de dar oportunidad al aprendiz de realizar un procedimiento ya que para muchas instituciones puede poner en riesgo la seguridad del paciente. Es por esta razón que cuando se trabaja sobre ambientes simulados, se logra establecer objetivos de aprendizaje los cuales se definen ampliamente su planeación y son socializados con el aprendiz. 
       |De esta forma el entrenamiento no tiene un límite en la realización de procedimientos, generando beneficios los cuales:
@@ -144,7 +144,7 @@
 
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/-aTjnYqwkuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade-right") Para implementar un proceso pedagógico en simulación se recomiendan los siguientes pasos (ver figura):
 
