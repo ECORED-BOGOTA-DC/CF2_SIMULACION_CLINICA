@@ -127,7 +127,7 @@ export default {
     {
       tema: 'Teorías de la Simulación Clínica',
       referencia:
-        'Armijo Rivera, S. (2.021). <b>Teorías para la inserción curricular de la Simulación Clínica. <em>Manual para la inserción curricular de simulación.</em></b>',
+        'Armijo Rivera, S. (2021). <b>Teorías para la inserción curricular de la Simulación Clínica. <em>Manual para la inserción curricular de simulación.</em></b>',
       tipo: 'PDF',
       link:
         'https://medicina.udd.cl/files/2021/05/C3-Teorias-para-insercion-curricular-de-simulacion-clinica.pdf',

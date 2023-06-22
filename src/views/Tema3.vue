@@ -8,16 +8,8 @@
       h1 Análisis de necesidades en los procesos de formación 
     
     .tarjeta.mb-5.p-4.px-xl-0(style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,245,254,1) 50%, rgba(255,255,255,1) 100%); overflow: hidden")
-      .col-xl-10.mx-auto.d-flex.flex-wrap
-        p.mb-0.order-2.order-lg-1.col-lg-7.pe-lg-5(data-aos="fade-right") Para que los procesos de formación cumplan los objetivos esperados y estén en mejora continua es primordial
-          br
-          |realizar de manera permanente el análisis de necesidades.
-          br
-          |Hoy en día los programas académicos, sin importar el nivel de formación: técnico, tecnológico, y profesional, se
-          br
-          |vienen apoyando en las nuevas tecnologías de la información, permitiendo que los diseños curriculares integren
-          br
-          |innovación y necesidades reales del sector salud. 
+      .col-xl-10.mx-auto.d-flex.flex-wrap.align-items-center
+        p.mb-0.order-2.order-lg-1.col-lg-7.pe-lg-5(data-aos="fade-right") Para que los procesos de formación cumplan los objetivos esperados y estén en mejora continua es primordial realizar de manera permanente el análisis de necesidades. Hoy en día los programas académicos, sin importar el nivel de formación: técnico, tecnológico, y profesional, se vienen apoyando en las nuevas tecnologías de la información, permitiendo que los diseños curriculares integren innovación y necesidades reales del sector salud. 
         img.mb-4.mb-lg-auto.order-1.order-lg-2.col-lg-5(src="@/assets/curso/temas/tema3/img-1.jpg" data-aos="fade-left" alt="representa la definición de un ambiente de simulación según Peter Dieckmann, que describe como un entorno donde varias personas se reúnen en un espacio o tiempo para realizar actividades similares a la realidad utilizando un simulador")
 
     p.mb-5(data-aos="fade-right") Es así que para fortalecer las competencias de los aprendices, se involucran componentes pedagógicos con escenarios y eventos clínicos simulados que mejorarán los conocimientos adquiridos y las prácticas que algún día tendrán que realizarse de manera real. 
@@ -34,7 +26,7 @@
       li.d-flex.align-items-start
         img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
         p.ps-4.mb-0(data-aos="fade-left") La capacidad de resolución frente a casos o eventos clínicos.
-    p.mb-5(data-aos="fade-right") Este proceso se constituye en soporte para motivar al aprendiz a alcanzar el objetivo de articular la simulación con el aprendizaje, promoviendo así el desarrollo de habilidades técnicas, comunicativas y de trabajo en equipo y que su apropiación de conocimiento sea de manera escalonada en el cual se evalúe no solo el conocimiento, sino que también, la habilidades frente al cómo  se hacen las diferentes actividades en relación con su rol, aplicando primero las habilidades en un ambiente simulado y luego en un ambiente real.
+    p.mb-5(data-aos="fade-right") Este proceso se constituye en soporte para motivar al aprendiz a alcanzar el objetivo de articular la simulación con el aprendizaje, promoviendo así el desarrollo de habilidades técnicas, comunicativas y de trabajo en equipo y que su apropiación de conocimiento sea de manera escalonada en el cual se evalúe no solo el conocimiento, sino que también, las habilidades frente al cómo  se hacen las diferentes actividades en relación con su rol, aplicando primero las habilidades en un ambiente simulado y luego en un ambiente real.
 
     .bloque-texto-a.color-acento-botones.p-4.col-lg-9.offset-lg-1.mb-5(style="background-color: #A9F8F0")
       .row.m-0.align-items-center.justify-content-between
@@ -86,7 +78,7 @@
         p.ps-4.mb-0(data-aos="fade-left") Insumos, materiales de la institución.
       li.d-flex.align-items-start
         img.pt-1(src="@/assets/curso/temas/decorador-1.svg" style="max-width: 15px" data-aos="fade-right")
-        p.ps-4.mb-0(data-aos="fade-left") Objetivo del simulacros.
+        p.ps-4.mb-0(data-aos="fade-left") Objetivo del simulacro.
     p.mb-5(data-aos="fade-right") En el caso de los ambientes reales el acceso que tienen los programas de salud es en los centros hospitalarios o clínicas. Este acceso puede ser difícil, además los aprendizajes se enfrentan a situaciones reales que pueden aumentar la posibilidad de riesgo de los pacientes y de los aprendices. 
       br
       br

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span.text-white 2
-      h1 Fases de Simulación Clínica
+      h1 Fases de simulación clínica
 
     p.mb-5(data-aos="fade-right") De acuerdo con Peter Dieckmann, un ambiente de simulación se define como aquel donde al reunirse varias personas en un espacio o tiempo, pueden realizar actividades que se asemejan a la realidad en torno a un simulador (Elsevier, 2015). Esta práctica social, tiene como fin dar cumplimiento a los objetivos propuestos para el aprendizaje. Peter Dieckmann diseñó un modelo en el cual se puede entender de una manera más clara las actividades realizadas en simulación, dividido en tres (3) fases con ocho (8) momentos diferentes.
       br
@@ -58,7 +58,7 @@ export default {
         imagen: require('@/assets/curso/temas/tema2/img-7.png'),
       },
       {
-        titulo: 'Tercera fase “<em>debriefing</em>”',
+        titulo: 'Tercera fase <em>debriefing</em>',
         texto:
           'También llamada etapa de reflexión tiene como intención socializarse en un área distinta a la que haya tenido en simulación, mediante una discusión facilitada donde se exponen las experiencias vividas en el escenario y cómo se resolvió el evento clínico sobre acciones y cuál fue el desempeño transcurrido el tiempo desde su inicio y hasta el final. Los momentos del <em>debriefing</em> están conformados por: descripción, análisis y aplicación.',
         imagen: require('@/assets/curso/temas/tema2/img-8.png'),
