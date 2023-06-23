@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="715" height="497.865" viewBox="0 0 715 497.865">
+  <g id="Grupo_239559" data-name="Grupo 239559" transform="translate(-125.702 -117.657)">
+    <path id="Trazado_231319" data-name="Trazado 231319" d="M125.7,615.523h715L482.109,117.658" fill="#27279d"/>
+    <path id="Trazado_231320" data-name="Trazado 231320" d="M648.5,313.808H272.423l-79.9,111.983H729.154Z" transform="translate(22.53 66.141)" fill="#3636d1"/>
+    <path id="Trazado_231321" data-name="Trazado 231321" d="M628.348,379.949,439.43,117.658,252.274,379.949Z" transform="translate(42.679)" fill="#4545ff"/>
+    <path id="Trazado_231322" data-name="Trazado 231322" d="M422.475,117.658,302.556,285.72H543.524Z" transform="translate(59.634)" fill="#bebeff"/>
+    <text id="Evaluación_de_Comportamiento_Conocimiento_aplicado_" data-name="Evaluación de 
+Comportamiento
+(Conocimiento aplicado)" transform="translate(475.317 310.507)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-64.814" y="0">Evaluación de </tspan><tspan x="-76.157" y="24">Comportamiento</tspan><tspan x="-110.444" y="48">(Conocimiento aplicado)</tspan></text>
+    <text id="Evaluación_de_Aprendizaje_Conocimiento_Adquirido_" data-name="Evaluación de Aprendizaje
+(Conocimiento Adquirido)" transform="translate(475.334 426.801)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-119.102" y="0">Evaluación de Aprendizaje</tspan><tspan x="-116.489" y="24">(Conocimiento Adquirido)</tspan></text>
+    <text id="Evaluación_de_Reacción_Satisfacción_" data-name="Evaluación de Reacción
+(Satisfacción)" transform="translate(475.54 549.785)" fill="#e4e4ff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-106.484" y="0">Evaluación de Reacción</tspan><tspan x="-63.247" y="24">(Satisfacción)</tspan></text>
+    <circle id="Elipse_5096" data-name="Elipse 5096" cx="37.905" cy="37.905" r="37.905" transform="translate(259.071 521.62)" fill="#93007c"/>
+    <circle id="Elipse_5097" data-name="Elipse 5097" cx="37.905" cy="37.905" r="37.905" transform="translate(253.385 515.934)" fill="#f400ce"/>
+    <circle id="Elipse_5098" data-name="Elipse 5098" cx="37.905" cy="37.905" r="37.905" transform="translate(259.071 400.879)" fill="#93007c"/>
+    <circle id="Elipse_5099" data-name="Elipse 5099" cx="37.905" cy="37.905" r="37.905" transform="translate(253.385 395.193)" fill="#f400ce"/>
+    <circle id="Elipse_5100" data-name="Elipse 5100" cx="37.905" cy="37.905" r="37.905" transform="translate(259.071 280.138)" fill="#93007c"/>
+    <circle id="Elipse_5101" data-name="Elipse 5101" cx="37.905" cy="37.905" r="37.905" transform="translate(253.385 274.452)" fill="#f400ce"/>
+    <circle id="Elipse_5102" data-name="Elipse 5102" cx="37.905" cy="37.905" r="37.905" transform="translate(259.071 159.397)" fill="#93007c"/>
+    <circle id="Elipse_5103" data-name="Elipse 5103" cx="37.905" cy="37.905" r="37.905" transform="translate(253.385 153.712)" fill="#f400ce"/>
+    <text id="N1" transform="translate(275.87 559.466)" fill="#fff" font-size="23" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">N1</tspan></text>
+    <text id="N2" transform="translate(275.87 438.725)" fill="#fff" font-size="23" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">N2</tspan></text>
+    <text id="N3" transform="translate(275.87 317.984)" fill="#fff" font-size="23" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">N3</tspan></text>
+    <text id="N4" transform="translate(275.87 197.244)" fill="#fff" font-size="23" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">N4</tspan></text>
+    <g id="Grupo_239558" data-name="Grupo 239558" transform="translate(416.293 190.685)">
+      <text id="Evaluación_de_resultados_Impacto_" data-name="Evaluación
+de resultados
+(Impacto)" transform="translate(62.716 21.536)" fill="#27279d" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-48.765" y="0">Evaluación</tspan><tspan x="-61.406" y="24">de resultados</tspan><tspan x="-43.716" y="48">(Impacto)</tspan></text>
+      <text id="Evaluación_de_resultados_Impacto_2" data-name="Evaluación
+de resultados
+(Impacto)" transform="translate(61 21)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-48.765" y="0">Evaluación</tspan><tspan x="-61.406" y="24">de resultados</tspan><tspan x="-43.716" y="48">(Impacto)</tspan></text>
+    </g>
+  </g>
+</svg>
